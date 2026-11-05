@@ -1,4 +1,9 @@
 [
+   {
+    "name": "LLM Infra/Inference Acceleration",
+    "translation": "大模型基础设施/推理加速",
+    "description": ""
+  },
   {
     "name": "Deep Learning",
     "translation": "深度学习",
