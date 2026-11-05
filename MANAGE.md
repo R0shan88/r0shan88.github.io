@@ -129,4 +129,4 @@
 - 基本信息统一模板是中文 Markdown：替换冒号后的占位文字，个人介绍可直接写多段文字；未填写字段不公开。旧的 content/about.md、content/profile.json、content/experience.json 等分散文件已由统一模板接管；研究兴趣由 content/interests.json 独立控制。其他 JSON 文件需保留括号、引号与逗号。
 - 工作与教育经历在统一模板中按 ### 区块填写：可复制区块添加，删除整个区块即可移除该段经历。
 - 每组专利 JSON 的 category 字段可填写：大模型、计算机视觉、计算机体系结构、通用AI。每组使用一个主要分类，修改后网页分类会随之更新。提交历史和专利核验报告保留历史快照；删除展示资料并不清除 Git 历史。
-- 修改后的内容会由页面读取。若要同步无脚本版本和这份管理清单，可在本目录运行 `node build.mjs`，再提交生成文件。
+- 提交 main 后会自动重新生成页面正文与管理清单并发布。请在 Actions 中等待 Refresh portfolio content 和 pages build and deployment 成功，再刷新主页。
