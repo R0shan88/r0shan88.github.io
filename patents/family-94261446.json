@@ -59,5 +59,8 @@
   ],
   "deduplicationNote": "同申请的公开/授权版本及有同族或分案证据的记录合并展示；独立地区的状态分别保留。",
   "venue": "CN119336979A",
-  "citations": ""
+  "citations": "",
+  "category": "通用AI",
+  "categoryReason": "依据语音/音频、多模态生成、推荐、语义检索或神经网络控制等主要应用主题归类。",
+  "categoryBasis": "按主要技术主题整理的展示分类，可由本人修改；不替代官方 IPC/CPC 分类。"
 }

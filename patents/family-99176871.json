@@ -81,5 +81,8 @@
   ],
   "deduplicationNote": "同申请的公开/授权版本及有同族或分案证据的记录合并展示；独立地区的状态分别保留。",
   "venue": "CN121765034A",
-  "citations": ""
+  "citations": "",
+  "category": "大模型",
+  "categoryReason": "依据标题、摘要或说明书中的语言模型、生成式推理、Prefill/Decode、KV Cache 或预训练语言模型语音生成等主要应用主题归类。",
+  "categoryBasis": "按主要技术主题整理的展示分类，可由本人修改；不替代官方 IPC/CPC 分类。"
 }

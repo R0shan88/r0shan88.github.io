@@ -75,5 +75,8 @@
   ],
   "deduplicationNote": "已核实终止、放弃或失效；不列入默认专利列表。",
   "venue": "CN106325812B",
-  "citations": ""
+  "citations": "",
+  "category": "计算机体系结构",
+  "categoryReason": "依据处理器、指令集、并行计算、FFT 数据通路、存储访问、硬件互连及计算安全等主要技术主题归类。",
+  "categoryBasis": "按主要技术主题整理的展示分类，可由本人修改；不替代官方 IPC/CPC 分类。"
 }

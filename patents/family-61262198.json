@@ -75,5 +75,8 @@
   ],
   "deduplicationNote": "同申请的公开/授权版本及有同族或分案证据的记录合并展示；独立地区的状态分别保留。",
   "venue": "CN107766377B",
-  "citations": ""
+  "citations": "",
+  "category": "计算机视觉",
+  "categoryReason": "依据图像/视频处理、成像、视觉感知、图像检索及摄像数据分析等主要应用主题归类。",
+  "categoryBasis": "按主要技术主题整理的展示分类，可由本人修改；不替代官方 IPC/CPC 分类。"
 }
