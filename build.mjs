@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import vm from 'node:vm';
+import crypto from 'node:crypto';
 const context={URL};vm.createContext(context);vm.runInContext(fs.readFileSync('records.js','utf8'),context);
 vm.runInContext(fs.readFileSync('content.js','utf8'),context);
 const profile=fs.existsSync('profile.json')?JSON.parse(fs.readFileSync('profile.json','utf8')):{};
@@ -23,7 +24,13 @@ html=html.replace(/<!-- RECORDS:START -->[\s\S]*?<!-- RECORDS:END -->/,'<!-- REC
 for(const [id,n] of [['record-count',rows.length],['all-n',rows.length],['paper-n',rows.filter(r=>r.type==='paper').length],['patent-n',patents.filter(p=>p.status!=='excluded').length]])html=html.replace(new RegExp(`(id="${id}">)[^<]*`),'$1'+n);
 for(const [i,category] of ['大模型','计算机视觉','计算机体系结构','通用AI'].entries())html=html.replace(new RegExp(`(id="category-count-${i}">)[^<]*`),'$1'+patents.filter(p=>p.status!=='excluded'&&p.category===category).length);
 html=html.replace(/(<p id="result-count"[^>]*>)[^<]*/,'$1显示 '+rows.length+' 条记录');
+const sourceFiles=['records.js','content.js','app.js','style.css','profile.json',...fs.readdirSync('content').sort().map(f=>'content/'+f),...index.files,...optionalJson('publications/index.json',{files:[]}).files].filter(f=>fs.existsSync(f));
+const digest=crypto.createHash('sha256');for(const f of sourceFiles){digest.update(f);digest.update(fs.readFileSync(f));}
+const siteVersion=digest.digest('hex').slice(0,12);
+html=html.replace(/<html\b[^>]*>/,`<html lang="zh-CN" data-site-version="${siteVersion}">`);
+for(const asset of ['style.css','records.js','content.js','app.js'])html=html.replace(new RegExp(`((?:src|href)=")${asset.replace('.', '\\.')}[^"\\s]*(")`,'g'),(_,a,b)=>a+asset+'?v='+siteVersion+b);
 fs.writeFileSync('index.html',html);
+console.log('Site version:',siteVersion);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const audit=JSON.parse(fs.readFileSync('patent-audit.json','utf8'));
 const tr=a=>`<tr><td>${esc(a.publication)}</td><td>${a.inventorNameMatched?'已确认':'待核实'}</td><td>${esc(a.verifiedStatus)}</td><td>${a.included?'合并保留':'移出默认列表'}</td><td>${esc(a.family)}</td><td><a href="${esc(a.sourceUrl)}" target="_blank" rel="noopener">核验来源 ↗</a></td></tr>`;

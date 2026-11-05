@@ -15,11 +15,14 @@ function render(){
  $('category-filters').hidden=activeType==='paper';
  document.querySelectorAll('[data-category]').forEach(b=>{b.classList.toggle('active',b.dataset.category===activeCategory);b.setAttribute('aria-pressed',String(b.dataset.category===activeCategory));});
 }
-const readJson=async (path,optional=false)=>{const r=await fetch(path);if(optional&&r.status===404)return null;if(!r.ok)throw Error(path+': '+r.status);return r.json();};
+const dataRevision=Date.now().toString(36);
+const dataUrl=path=>{const version=document.documentElement?.dataset?.siteVersion||'current';return path+(path.includes('?')?'&':'?')+'v='+encodeURIComponent(version)+'&revision='+dataRevision;};
+const fetchData=path=>fetch(dataUrl(path),{cache:'no-store'});
+const readJson=async (path,optional=false)=>{const r=await fetchData(path);if(optional&&r.status===404)return null;if(!r.ok)throw Error(path+': '+r.status);return r.json();};
 async function loadContent(){
  const names=['contact','site'];
  const values=await Promise.all(names.map(name=>readJson('content/'+name+'.json',true)));
- const basic=await fetch('content/basic-info.md');if(!basic.ok&&basic.status!==404)throw Error('Cannot load basic information');
+ const basic=await fetchData('content/basic-info.md');if(!basic.ok&&basic.status!==404)throw Error('Cannot load basic information');
  const c=Object.fromEntries(names.map((name,i)=>[name,values[i]]));applyContent(mergeBasicInfo(c,basic.status===404?'':await basic.text()));
 }
 async function loadRecords(){
