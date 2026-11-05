@@ -20,10 +20,10 @@ const dataUrl=path=>{const version=document.documentElement?.dataset?.siteVersio
 const fetchData=path=>fetch(dataUrl(path),{cache:'no-store'});
 const readJson=async (path,optional=false)=>{const r=await fetchData(path);if(optional&&r.status===404)return null;if(!r.ok)throw Error(path+': '+r.status);return r.json();};
 async function loadContent(){
- const names=['contact','site'];
- const values=await Promise.all(names.map(name=>readJson('content/'+name+'.json',true)));
+ const names=['contact','site','interests'];
+ const values=await Promise.allSettled(names.map(async name=>{const r=await fetchData('content/'+name+'.json');if(r.status===404)return null;if(!r.ok)throw Error(r.status);const text=await r.text();try{return JSON.parse(text);}catch(error){return JSON.parse(text.replace(/“([^“”\r\n]+)”\s*:/g,(_,key)=>JSON.stringify(key)+':'));}}));
  const basic=await fetchData('content/basic-info.md');if(!basic.ok&&basic.status!==404)throw Error('Cannot load basic information');
- const c=Object.fromEntries(names.map((name,i)=>[name,values[i]]));applyContent(mergeBasicInfo(c,basic.status===404?'':await basic.text()));
+ const c=Object.fromEntries(names.map((name,i)=>[name,values[i].status==='fulfilled'?values[i].value:null]));applyContent(mergeBasicInfo(c,basic.status===404?'':await basic.text()));
 }
 async function loadRecords(){
  const [metadata,patentIndex,paperIndex]=await Promise.all([readJson('profile.json',true),readJson('patents/index.json',true),readJson('publications/index.json',true)]);

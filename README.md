@@ -17,6 +17,7 @@
 | 内容 | 文件 |
 | --- | --- |
 | 基本信息（个人介绍、工作与教育经历、方向） | [content/basic-info.md](content/basic-info.md) |
+| Research Interests / 研究兴趣（可添加说明） | [content/interests.json](content/interests.json) |
 | 联系方式与学术链接 | [content/contact.json](content/contact.json) |
 | 页面其他文案 | [content/site.json](content/site.json) |
 | 论文资料 | [publications/](publications/) |
@@ -40,3 +41,22 @@
 ## 专利方向分类
 
 专利按主要技术主题分成 **大模型、计算机视觉、计算机体系结构、通用AI** 四类，主页可按方向筛选，进入专利列表时按方向分组，各类内部按申请时间倒序排列。每组专利 JSON 的 `category` 字段保存其主要分类，可自行修改。`categoryReason` 记录当前分类依据；这属于展示分类，不是官方 IPC/CPC 分类。
+
+## 联系方式与 Research Interests
+
+- [编辑联系方式（含 Email）](https://github.com/frank2wang87/frank2wang87.github.io/edit/main/content/contact.json)：`email` 填写邮箱，例如 `"email": "name@example.com"`，主页会显示可点击的邮件链接。也兼容 `Email`。JSON 的引号需使用英文直引号 `"`。
+- [编辑 Research Interests](https://github.com/frank2wang87/frank2wang87.github.io/edit/main/content/interests.json)：这是侧边研究兴趣列表的唯一主编辑入口，基本信息模板不再重复设置该列表。每项可填英文名称 `name`、中文名称 `translation` 和具体说明 `description`。复制一个对象即可增加方向，项目之间保留逗号。
+
+下面是条目的填写格式（内容仅为填写示例）：
+
+```json
+{
+  "name": "Large Language Models",
+  "translation": "大模型",
+  "description": "在这里填写该方向的研究内容"
+}
+```
+
+需要添加其他联系链接时，可在联系方式中加入 `links` 数组，例如 `"links": [{"label": "ORCID", "url": "https://orcid.org/你的编号"}]`。
+
+内容管理清单已列出论文作者全名单、专利发明人全名单及代表公开号，方便核对后再执行删除。

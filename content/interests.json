@@ -1,14 +1,17 @@
 [
   {
     "name": "Deep Learning",
-    "translation": "深度学习"
+    "translation": "深度学习",
+    "description": ""
   },
   {
     "name": "Computer Vision",
-    "translation": "计算机视觉"
+    "translation": "计算机视觉",
+    "description": ""
   },
   {
     "name": "Computer Architecture",
-    "translation": "计算机体系结构"
+    "translation": "计算机体系结构",
+    "description": ""
   }
 ]
