@@ -26,7 +26,7 @@
 
 基本信息统一模板采用中文标签，直接替换冒号后的内容即可。自我介绍可用多段文字；其他字段在同一行填写。旧的分散基本信息文件不再控制主页展示。论文与专利等 JSON 文件仍需保留有效格式。
 
-删除论文、专利文件后，网页会跳过已删除的资料，不必再次修改索引。新增条目时需将文件路径加入对应 `index.json`。修改后网页会读取最新资料；要同步预先生成的无脚本正文及管理清单，在仓库目录运行 `node build.mjs` 后提交生成文件。
+删除论文、专利文件后，网页会跳过已删除的资料，不必再次修改索引。新增条目时需将文件路径加入对应 `index.json`。修改资料并提交到 main 后，Refresh portfolio content 工作流会自动运行 node build.mjs，生成页面正文与管理清单，再发布到 GitHub Pages；不需要手动运行构建。可在仓库 Actions 页面检查结果。
 
 ## 从 GitHub 个人资料页进入
 
@@ -60,3 +60,7 @@
 需要添加其他联系链接时，可在联系方式中加入 `links` 数组，例如 `"links": [{"label": "ORCID", "url": "https://orcid.org/你的编号"}]`。
 
 内容管理清单已列出论文作者全名单、专利发明人全名单及代表公开号，方便核对后再执行删除。
+
+## 修改已提交但尚未看到更新
+
+提交资料后，进入 [Actions](https://github.com/frank2wang87/frank2wang87.github.io/actions)，等待 **Refresh portfolio content** 和随后的 **pages build and deployment** 均显示绿色成功，再刷新主页。浏览器仍显示旧页时可按 Ctrl+F5。更新会直接写入页面正文，JavaScript 加载失败也能看到已发布内容。
