@@ -1,0 +1,23 @@
+{
+  "id": "paper-013",
+  "title": "Under-display camera image enhancement via cascaded curve estimation",
+  "authors": "Jun Luo, Wenqi Ren, Tao Wang, Chongyi Li, Xiaochun Cao",
+  "venue": "IEEE Transactions on Image Processing 31, 4856-4868, 2022",
+  "year": "2022",
+  "citations": "25",
+  "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QIy6O2EAAAAJ&pagesize=100&citation_for_view=QIy6O2EAAAAJ:qxL8FJ1GzNcC",
+  "details": {
+    "作者": "Jun Luo, Wenqi Ren, Tao Wang, Chongyi Li, Xiaochun Cao",
+    "发表日期": "2022/6/16",
+    "期刊": "IEEE Transactions on Image Processing",
+    "卷号": "31",
+    "页码范围": "4856-4868",
+    "出版商": "IEEE",
+    "简介": "The new trend of full-screen devices encourages manufacturers to position a camera behind a screen, i.e., the newly-defined Under-Display Camera (UDC). Therefore, UDC image restoration has been a new realistic single image enhancement problem. In this work, we propose a curve estimation network operating on the hue (H) and saturation (S) channels to perform adaptive enhancement for degraded images captured by UDCs. The proposed network aims to match the complicated relationship between the images captured by under-display and display-free cameras. To extract effective features, we cascade the proposed curve estimation network with sharing weights, and we introduce a spatial and channel attention module in each curve estimation network to exploit attention-aware features. In addition, we learn the curve estimation network in a semi-supervised manner to alleviate the restriction of the …",
+    "引用总数": "被引用次数：25 2022 2023 2024 2025 2026 2 5 7 9 2",
+    "学术搜索中的文章": "Under-display camera image enhancement via cascaded curve estimation J Luo, W Ren, T Wang, C Li, X Cao - IEEE Transactions on Image Processing, 2022 被引用次数：25 相关文章 所有 6 个版本"
+  },
+  "url": "https://ieeexplore.ieee.org/abstract/document/9798712/",
+  "type": "paper",
+  "metadataTruncated": false
+}

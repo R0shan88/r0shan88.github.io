@@ -1,0 +1,22 @@
+{
+  "id": "paper-009",
+  "title": "Multi-scale separable network for ultra-high-definition video deblurring",
+  "authors": "Senyou Deng, Wenqi Ren, Yanyang Yan, Tao Wang, Fenglong Song, Xiaochun Cao",
+  "venue": "2021 IEEE/CVF International Conference on Computer Vision (ICCV), 14010-14019, 2021",
+  "year": "2021",
+  "citations": "65",
+  "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QIy6O2EAAAAJ&pagesize=100&citation_for_view=QIy6O2EAAAAJ:Y0pCki6q_DkC",
+  "details": {
+    "作者": "Senyou Deng, Wenqi Ren, Yanyang Yan, Tao Wang, Fenglong Song, Xiaochun Cao",
+    "发表日期": "2021/10/10",
+    "研讨会论文": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "页码范围": "14010-14019",
+    "出版商": "IEEE",
+    "简介": "Although recent research has witnessed a significant progress on the video deblurring task, these methods struggle to reconcile inference efficiency and visual quality simultaneously, especially on ultra-high-definition (UHD) videos (e.g., 4K resolution). To address the problem, we propose a novel deep model for fast and accurate UHD Video Deblurring (UHDVD). The proposed UHDVD is achieved by a separable-patch architecture, which collaborates with a multi-scale integration scheme to achieve a large receptive field without adding the number of generic convolutional layers and kernels. Additionally, we design a residual channel-spatial attention (RCSA) module to improve accuracy and reduce the depth of the network appropriately. The proposed UHDVD is the first real-time deblurring model for 4K videos at 35 fps. To train the proposed model, we build a new dataset comprised of 4K blurry videos and …",
+    "引用总数": "被引用次数：65 2022 2023 2024 2025 2026 11 6 9 24 15",
+    "学术搜索中的文章": "Multi-scale separable network for ultra-high-definition video deblurring S Deng, W Ren, Y Yan, T Wang, F Song, X Cao - 2021 IEEE/CVF International Conference on Computer …, 2021 被引用次数：65 相关文章 所有 4 个版本"
+  },
+  "url": "https://ieeexplore.ieee.org/abstract/document/9711223/",
+  "type": "paper",
+  "metadataTruncated": false
+}

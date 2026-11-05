@@ -1,0 +1,20 @@
+{
+  "id": "paper-010",
+  "title": "P/d-serve: Serving disaggregated large language model at scale",
+  "authors": "Yibo Jin, Tao Wang, Huimin Lin, Mingyang Song, Peiyang Li, Yipeng Ma, Yicheng Shan, Zhengfan Yuan, Cailong Li, Yajing Sun, Tiandeng Wu, Xing Chu, Ruizhi Huan, Li Ma, Xiao You, Wenting Zhou, Yunpeng Ye, Wen Liu, Xiangkun Xu, Yongsheng Zhang, Tiantian Dong, Jiawei Zhu, Zhe Wang, Xijian Ju, Jianxun Song, Haoliang Cheng, Xiaojing Li, Jiandong Ding, Hefei Guo, Zhengyong Zhang",
+  "venue": "arXiv preprint arXiv:2408.08147, 2024",
+  "year": "2024",
+  "citations": "51",
+  "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QIy6O2EAAAAJ&pagesize=100&citation_for_view=QIy6O2EAAAAJ:mB3voiENLucC",
+  "details": {
+    "作者": "Yibo Jin, Tao Wang, Huimin Lin, Mingyang Song, Peiyang Li, Yipeng Ma, Yicheng Shan, Zhengfan Yuan, Cailong Li, Yajing Sun, Tiandeng Wu, Xing Chu, Ruizhi Huan, Li Ma, Xiao You, Wenting Zhou, Yunpeng Ye, Wen Liu, Xiangkun Xu, Yongsheng Zhang, Tiantian Dong, Jiawei Zhu, Zhe Wang, Xijian Ju, Jianxun Song, Haoliang Cheng, Xiaojing Li, Jiandong Ding, Hefei Guo, Zhengyong Zhang",
+    "发表日期": "2024/8/15",
+    "期刊": "arXiv preprint arXiv:2408.08147",
+    "简介": "Serving disaggregated large language models (LLMs) over tens of thousands of xPU devices (GPUs or NPUs) with reliable performance faces multiple challenges. 1) Ignoring the diversity (various prefixes and tidal requests), treating all the prompts in a mixed pool is inadequate. To facilitate the similarity per scenario and minimize the inner mismatch on P/D (prefill and decoding) processing, fine-grained organization is required, dynamically adjusting P/D ratios for better performance. 2) Due to inaccurate estimation on workload (queue status or maintained connections), the global scheduler easily incurs unnecessary timeouts in prefill. 3) Block-fixed device-to-device (D2D) KVCache transfer over cluster-level RDMA (remote direct memory access) fails to achieve desired D2D utilization as expected. To overcome previous problems, this paper proposes an end-to-end system P/D-Serve, complying with the paradigm of MLOps (machine learning operations), which models end-to-end (E2E) P/D performance and enables: 1) fine-grained P/D organization, mapping the service with RoCE (RDMA over converged ethernet) as needed, to facilitate similar processing and dynamic adjustments on P/D ratios; 2) on-demand forwarding upon rejections for idle prefill, decoupling the scheduler from regular inaccurate reports and local queues, to avoid timeouts in prefill; and 3) efficient KVCache transfer via optimized D2D access. P/D-Serve is implemented upon Ascend and MindSpore, has been deployed over tens of thousands of NPUs for more than eight months in commercial use, and further achieves 60\\%, 42\\% and 46\\% improvements on E2E throughput …",
+    "引用总数": "被引用次数：51 2024 2025 2026 3 19 29",
+    "学术搜索中的文章": "P/d-serve: Serving disaggregated large language model at scale Y Jin, T Wang, H Lin, M Song, P Li, Y Ma, Y Shan… - arXiv preprint arXiv:2408.08147, 2024 被引用次数：51 相关文章 所有 2 个版本"
+  },
+  "url": "https://arxiv.org/abs/2408.08147",
+  "type": "paper",
+  "metadataTruncated": false
+}

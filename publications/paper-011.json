@@ -1,0 +1,22 @@
+{
+  "id": "paper-011",
+  "title": "Ultra-high-definition image hdr reconstruction via collaborative bilateral learning",
+  "authors": "Zhuoran Zheng, Wenqi Ren, Xiaochun Cao, Tao Wang, Xiuyi Jia",
+  "venue": "2021 IEEE/CVF International Conference on Computer Vision (ICCV), 4429-4438, 2021",
+  "year": "2021",
+  "citations": "50",
+  "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QIy6O2EAAAAJ&pagesize=100&citation_for_view=QIy6O2EAAAAJ:W7OEmFMy1HYC",
+  "details": {
+    "作者": "Zhuoran Zheng, Wenqi Ren, Xiaochun Cao, Tao Wang, Xiuyi Jia",
+    "发表日期": "2021/10/10",
+    "研讨会论文": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "页码范围": "4429-4438",
+    "出版商": "IEEE",
+    "简介": "Existing single image high dynamic range (HDR) reconstruction methods attempt to expand the range of illuminance. They are not effective in generating plausible textures and colors in the reconstructed results, especially for high-density pixels in ultra-high-definition (UHD) images. To address these problems, we propose a new HDR reconstruction network for UHD images by collaboratively learning color and texture details. First, we propose a dual-path network to extract the content and chromatic features at a reduced resolution of the low dynamic range (LDR) input. These two types of features are used to fit bilateral-space affine models for real-time HDR reconstruction. To extract the main data structure of the LDR input, we propose to use 3D Tucker decomposition and reconstruction to prevent pseudo edges and noise amplification in the learned bilateral grid. As a result, the high-quality content and chromatic …",
+    "引用总数": "被引用次数：50 2022 2023 2024 2025 2026 5 11 12 15 7",
+    "学术搜索中的文章": "Ultra-high-definition image hdr reconstruction via collaborative bilateral learning Z Zheng, W Ren, X Cao, T Wang, X Jia - 2021 IEEE/CVF International Conference on Computer …, 2021 被引用次数：50 相关文章 所有 5 个版本"
+  },
+  "url": "https://ieeexplore.ieee.org/abstract/document/9711027/",
+  "type": "paper",
+  "metadataTruncated": false
+}

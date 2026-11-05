@@ -1,0 +1,22 @@
+{
+  "id": "paper-001",
+  "title": "Ultra-high-definition image dehazing via multi-guided bilateral learning",
+  "authors": "Zhuoran Zheng, Wenqi Ren, Xiaochun Cao, Xiaobin Hu, Tao Wang, Fenglong Song, Xiuyi Jia",
+  "venue": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR …, 2021",
+  "year": "2021",
+  "citations": "380",
+  "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QIy6O2EAAAAJ&pagesize=100&citation_for_view=QIy6O2EAAAAJ:IjCSPb-OGe4C",
+  "details": {
+    "作者": "Zhuoran Zheng, Wenqi Ren, Xiaochun Cao, Xiaobin Hu, Tao Wang, Fenglong Song, Xiuyi Jia",
+    "发表日期": "2021/6/20",
+    "研讨会论文": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    "页码范围": "16180-16189",
+    "出版商": "IEEE",
+    "简介": "Convolutional neural networks (CNNs) have achieved significant success in the single image dehazing task. Unfortunately, most existing deep dehazing models have high computational complexity, which hinders their application to high-resolution images, especially for UHD (ultra-high-definition) or 4K resolution images. To address the problem, we propose a novel network capable of real-time dehazing of 4K images on a single GPU, which consists of three deep CNNs. The first CNN extracts haze-relevant features at a reduced resolution of the hazy input and then fits locally-affine models in the bilateral space. Another CNN is used to learn multiple full-resolution guidance maps corresponding to the learned bilateral model. As a result, the feature maps with high-frequency can be reconstructed by multi-guided bilateral upsampling. Finally, the third CNN fuses the high-quality feature maps into a dehazed image. In …",
+    "引用总数": "被引用次数：380 2020 2021 2022 2023 2024 2025 2026 1 2 40 80 90 100 67",
+    "学术搜索中的文章": "Ultra-high-definition image dehazing via multi-guided bilateral learning Z Zheng, W Ren, X Cao, X Hu, T Wang, F Song, X Jia - 2021 IEEE/CVF Conference on Computer Vision and …, 2021 被引用次数：380 相关文章 所有 3 个版本"
+  },
+  "url": "https://ieeexplore.ieee.org/abstract/document/9578433/",
+  "type": "paper",
+  "metadataTruncated": true
+}

@@ -1,0 +1,22 @@
+{
+  "id": "paper-002",
+  "title": "NTIRE 2021 nonhomogeneous dehazing challenge report",
+  "authors": "Codruta O Ancuti, Cosmin Ancuti, Florin-Alexandru Vasluianu, Radu Timofte, Minghan Fu, Huan Liu, Yankun Yu, Jun Chen, Keyan Wang, Jerome Chang, Xiyao Wang, Jing Liu, Yi Xu, Xinjian Zhang, Minyi Zhao, Shuigeng Zhou, Tianyi Chen, Jiahui Fu, Wentao Jiang, Chen Gao, Si Liu, Yudong Wang, Jichang Guo, Chongyi Li, Qixin Yan, Sida Zheng, Syed Waqas Zamir, Aditya Arora, Akshay Dudhane, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Ling Shao, Haichuan Zhang, Tiantong Guo, Vishal Monga, Wenjin Yang, Jin Lin, Xiaotong Luo, Guowen Huang, Shuxin Chen, Yanyun Qu, Kele Xu, Lehan Yang, Pengliang Sun, Xuetong Niu, Junjun Zheng, Xiaotong Ruan, Yunfeng Wang, Jiang Yang, Zhipeng Luo, Sai Wang, Zhenyu Xu, Xiaochun Cao, Jun Luo, Zhuoran Zheng, Wenqi Ren, Tao Wang, Yiqun Chen, Cong Leng, Chenghua Li, Jian Cheng, Chang-Sung Sung, Jun-Cheng Chen, Eunsung Jo, Jae-Young Sim, Geethu MM, Akhil KA, Sreeni KG, Jeena RS, Joseph Zacharias, Chippy M Manu, Zexi Huang, Baofeng Zhang, Yiwen Zhang, Jindong Li, Mianjie Chen, Quan Xiao, Qingchao Su, Lihua Han, Yanting Huang, Kalpesh Prajapati, Vishal Chudasama, Heena Patel, Anjali Sarvaiya, Kishor Upla, Kiran Raja, Raghavendra Ramachandra, Christoph Busch, Hongyuan Jing, Zilong Huang, Yiran Fu, Haoqiang Wu, Quanxing Zha, Zhiwei Zhu, Hejun Lv",
+  "venue": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2021",
+  "year": "2021",
+  "citations": "143",
+  "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QIy6O2EAAAAJ&pagesize=100&citation_for_view=QIy6O2EAAAAJ:5nxA0vEk-isC",
+  "details": {
+    "作者": "Codruta O Ancuti, Cosmin Ancuti, Florin-Alexandru Vasluianu, Radu Timofte, Minghan Fu, Huan Liu, Yankun Yu, Jun Chen, Keyan Wang, Jerome Chang, Xiyao Wang, Jing Liu, Yi Xu, Xinjian Zhang, Minyi Zhao, Shuigeng Zhou, Tianyi Chen, Jiahui Fu, Wentao Jiang, Chen Gao, Si Liu, Yudong Wang, Jichang Guo, Chongyi Li, Qixin Yan, Sida Zheng, Syed Waqas Zamir, Aditya Arora, Akshay Dudhane, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Ling Shao, Haichuan Zhang, Tiantong Guo, Vishal Monga, Wenjin Yang, Jin Lin, Xiaotong Luo, Guowen Huang, Shuxin Chen, Yanyun Qu, Kele Xu, Lehan Yang, Pengliang Sun, Xuetong Niu, Junjun Zheng, Xiaotong Ruan, Yunfeng Wang, Jiang Yang, Zhipeng Luo, Sai Wang, Zhenyu Xu, Xiaochun Cao, Jun Luo, Zhuoran Zheng, Wenqi Ren, Tao Wang, Yiqun Chen, Cong Leng, Chenghua Li, Jian Cheng, Chang-Sung Sung, Jun-Cheng Chen, Eunsung Jo, Jae-Young Sim, Geethu MM, Akhil KA, Sreeni KG, Jeena RS, Joseph Zacharias, Chippy M Manu, Zexi Huang, Baofeng Zhang, Yiwen Zhang, Jindong Li, Mianjie Chen, Quan Xiao, Qingchao Su, Lihua Han, Yanting Huang, Kalpesh Prajapati, Vishal Chudasama, Heena Patel, Anjali Sarvaiya, Kishor Upla, Kiran Raja, Raghavendra Ramachandra, Christoph Busch, Hongyuan Jing, Zilong Huang, Yiran Fu, Haoqiang Wu, Quanxing Zha, Zhiwei Zhu, Hejun Lv",
+    "发表日期": "2021/6/19",
+    "来源": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "页码范围": "627-646",
+    "出版商": "IEEE",
+    "简介": "This work reviews the results of the NTIRE 2021 Challenge on Non-Homogeneous Dehazing. The proposed techniques and their results have been evaluated on a novel dataset that extends the NH-Haze datset. It consists of additional 35 pairs of real haze free and nonhomogeneous hazy images recorded outdoor. The nonhomogeneous haze has been introduced in the outdoor scenes by using a a professional setup that imitates the real conditions of haze scenes. 327 participants registered in the challenge and 23 teams competed in the final testing phase. The proposed solutions gauge the state-of-the-art in image dehazing.",
+    "引用总数": "被引用次数：143 2021 2022 2023 2024 2025 2026 14 8 27 34 35 24",
+    "学术搜索中的文章": "NTIRE 2021 nonhomogeneous dehazing challenge report CO Ancuti, C Ancuti, FA Vasluianu, R Timofte, M Fu… - 2021 IEEE/CVF Conference on Computer Vision and …, 2021 被引用次数：143 相关文章 所有 9 个版本"
+  },
+  "url": "https://ieeexplore.ieee.org/abstract/document/9523012/",
+  "type": "paper",
+  "metadataTruncated": true
+}

@@ -1,0 +1,22 @@
+{
+  "id": "paper-005",
+  "title": "NTIRE 2021 challenge on image deblurring",
+  "authors": "Seungjun Nah, Sanghyun Son, Suyoung Lee, Radu Timofte, Kyoung Mu Lee, Liangyu Chen, Jie Zhang, Xin Lu, Xiaojie Chu, Chengpeng Chen, Zhiwei Xiong, Ruikang Xu, Zeyu Xiao, Jie Huang, Yueyi Zhang, Si Xi, Jia Wei, Haoran Bai, Songsheng Cheng, Hao Wei, Long Sun, Jinhui Tang, Jinshan Pan, Donghyeon Lee, Chulhee Lee, Taesung Kim, Xiaobing Wang, Dafeng Zhang, Zhihong Pan, Tianwei Lin, Wenhao Wu, Dongliang He, Baopu Li, Boyun Li, Teng Xi, Gang Zhang, Jingtuo Liu, Junyu Han, Errui Ding, Guangpin Tao, Wenqing Chu, Yun Cao, Donghao Luo, Ying Tai, Tong Lu, Chengjie Wang, Jilin Li, Feiyue Huang, Hanting Chen, Shuaijun Chen, Tianyu Guo, Yunhe Wang, Syed Waqas Zamir, Aditya Arora, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Ling Shao, Yushen Zuo, Yimin Ou, Yuanjun Chai, Lei Shi, Shuai Liu, Lei Lei, Chaoyu Feng, Kai Zeng, Yuying Yao, Xinran Liu, Zhizhou Zhang, Huacheng Huang, Yunchen Zhang, Mingchao Jiang, Wenbin Zou, Si Miao, Yangwoo Kim, Yuejin Sun, Senyou Deng, Wenqi Ren, Xiaochun Cao, Tao Wang, Maitreya Suin, AN Rajagopalan, Vinh Van Duong, Thuc Huu Nguyen, Jonghoon Yim, Byeungwoo Jeon, Ru Li, Junwei Xie, Jong-Wook Han, Jun-Ho Choi, Jun-Hyuk Kim, Jong-Seok Lee, Jiaxin Zhang, Fan Peng, David Svitov, Dmitry Pakulich, Jaeyeob Kim, Jechang Jeong",
+  "venue": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2021",
+  "year": "2021",
+  "citations": "127",
+  "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QIy6O2EAAAAJ&pagesize=100&citation_for_view=QIy6O2EAAAAJ:8k81kl-MbHgC",
+  "details": {
+    "作者": "Seungjun Nah, Sanghyun Son, Suyoung Lee, Radu Timofte, Kyoung Mu Lee, Liangyu Chen, Jie Zhang, Xin Lu, Xiaojie Chu, Chengpeng Chen, Zhiwei Xiong, Ruikang Xu, Zeyu Xiao, Jie Huang, Yueyi Zhang, Si Xi, Jia Wei, Haoran Bai, Songsheng Cheng, Hao Wei, Long Sun, Jinhui Tang, Jinshan Pan, Donghyeon Lee, Chulhee Lee, Taesung Kim, Xiaobing Wang, Dafeng Zhang, Zhihong Pan, Tianwei Lin, Wenhao Wu, Dongliang He, Baopu Li, Boyun Li, Teng Xi, Gang Zhang, Jingtuo Liu, Junyu Han, Errui Ding, Guangpin Tao, Wenqing Chu, Yun Cao, Donghao Luo, Ying Tai, Tong Lu, Chengjie Wang, Jilin Li, Feiyue Huang, Hanting Chen, Shuaijun Chen, Tianyu Guo, Yunhe Wang, Syed Waqas Zamir, Aditya Arora, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Ling Shao, Yushen Zuo, Yimin Ou, Yuanjun Chai, Lei Shi, Shuai Liu, Lei Lei, Chaoyu Feng, Kai Zeng, Yuying Yao, Xinran Liu, Zhizhou Zhang, Huacheng Huang, Yunchen Zhang, Mingchao Jiang, Wenbin Zou, Si Miao, Yangwoo Kim, Yuejin Sun, Senyou Deng, Wenqi Ren, Xiaochun Cao, Tao Wang, Maitreya Suin, AN Rajagopalan, Vinh Van Duong, Thuc Huu Nguyen, Jonghoon Yim, Byeungwoo Jeon, Ru Li, Junwei Xie, Jong-Wook Han, Jun-Ho Choi, Jun-Hyuk Kim, Jong-Seok Lee, Jiaxin Zhang, Fan Peng, David Svitov, Dmitry Pakulich, Jaeyeob Kim, Jechang Jeong",
+    "发表日期": "2021/6/19",
+    "来源": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "页码范围": "149-165",
+    "出版商": "IEEE",
+    "简介": "Motion blur is a common photography artifact in dynamic environments that typically comes jointly with the other types of degradation. This paper reviews the NTIRE 2021 Challenge on Image Deblurring. In this challenge report, we describe the challenge specifics and the evaluation results from the 2 competition tracks with the proposed solutions. While both the tracks aim to recover a high-quality clean image from a blurry image, different artifacts are jointly involved. In track 1, the blurry images are in a low resolution while track 2 images are compressed in JPEG format. In each competition, there were 338 and 238 registered participants and in the final testing phase, 18 and 17 teams competed. The winning methods demonstrate the state-of-the-art performance on the image deblurring task with the jointly combined artifacts.",
+    "引用总数": "被引用次数：127 2021 2022 2023 2024 2025 2026 16 25 24 25 18 18",
+    "学术搜索中的文章": "NTIRE 2021 challenge on image deblurring S Nah, S Son, S Lee, R Timofte, KM Lee, L Chen… - 2021 IEEE/CVF Conference on Computer Vision and …, 2021 被引用次数：127 相关文章 所有 9 个版本"
+  },
+  "url": "https://ieeexplore.ieee.org/abstract/document/9523065/",
+  "type": "paper",
+  "metadataTruncated": true
+}

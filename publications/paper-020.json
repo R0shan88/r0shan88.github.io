@@ -1,0 +1,22 @@
+{
+  "id": "paper-020",
+  "title": "Training the hopfield neural network for classification using a stdp-like rule",
+  "authors": "Xiaolin Hu, Tao Wang",
+  "venue": "International Conference on Neural Information Processing, 737-744, 2017",
+  "year": "2017",
+  "citations": "8",
+  "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QIy6O2EAAAAJ&pagesize=100&citation_for_view=QIy6O2EAAAAJ:UeHWp8X0CEIC",
+  "details": {
+    "作者": "Xiaolin Hu, Tao Wang",
+    "发表日期": "2017/10/28",
+    "图书": "International Conference on Neural Information Processing",
+    "页码范围": "737-744",
+    "出版商": "Springer International Publishing",
+    "简介": "The backpropagation algorithm has played a critical role in training deep neural networks. Many studies suggest that the brain may implement a similar algorithm. But most of them require symmetric weights between neurons, which makes the models less biologically plausible. Inspired by some recent works by Bengio et al., we show that the well-known Hopfield neural network (HNN) can be trained in a biologically plausible way. The network can take hierarchical architectures and the weights between neurons are not necessarily symmetric. The network runs in two alternating phases. The weight change is proportional to the firing rate of the presynaptic neuron and the state (or membrane potential) change of the postsynaptic neuron between the two phases, which approximates a classical spike-timing-dependent-plasticity (STDP) rule. Several HNNs with one or two hidden layers are trained on the MNIST …",
+    "引用总数": "被引用次数：8 2019 2020 2021 2022 2023 2024 2025 2026 2 1 1 3 1",
+    "学术搜索中的文章": "Training the hopfield neural network for classification using a stdp-like rule X Hu, T Wang - International Conference on Neural Information …, 2017 被引用次数：8 相关文章"
+  },
+  "url": "https://link.springer.com/chapter/10.1007/978-3-319-70090-8_74",
+  "type": "paper",
+  "metadataTruncated": false
+}

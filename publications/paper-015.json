@@ -1,0 +1,22 @@
+{
+  "id": "paper-015",
+  "title": "NTIRE 2024 challenge on blind enhancement of compressed image: Methods and results",
+  "authors": "Ren Yang, Radu Timofte, Bingchen Li, Xin Li, Mengxi Guo, Shijie Zhao, Li Zhang, Zhibo Chen, Dongyang Zhang, Yash Arora, Aditya Arora, Yuanbin Chen, Hui Tang, Tao Wang, Longxuan Zhao, Bin Chen, Tong Tong, Qiao Mo, Jingwei Bao, Jinhua Hao, Yukang Ding, Hantang Li, Ming Sun, Chao Zhou, Shuyuan Zhu, Zhi Jin, Wei Wang, Dandan Zhan, Jiawei Wu, Jiahao Wu, Luwei Tu, Hongyu An, Xinfeng Zhang, Woon-Ha Yeo, Wang-Taek Oh, Young-Il Kim, Han-Cheol Ryu, Long Sun, Mingjun Zhen, Jinshan Pan, Jiangxin Dong, Jinhui Tang, Yapeng Du, Ao Li, Ziyang He, Lei Luo, Ce Zhu, Xin Yao, Sunder Ali Khowaja, IK Hyun Lee, Jaeho Lee, Seongwan Kim, Nodirkhuja Khujaev, Roman Tsoy",
+  "venue": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2024",
+  "year": "2024",
+  "citations": "24",
+  "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QIy6O2EAAAAJ&pagesize=100&citation_for_view=QIy6O2EAAAAJ:iH-uZ7U-co4C",
+  "details": {
+    "作者": "Ren Yang, Radu Timofte, Bingchen Li, Xin Li, Mengxi Guo, Shijie Zhao, Li Zhang, Zhibo Chen, Dongyang Zhang, Yash Arora, Aditya Arora, Yuanbin Chen, Hui Tang, Tao Wang, Longxuan Zhao, Bin Chen, Tong Tong, Qiao Mo, Jingwei Bao, Jinhua Hao, Yukang Ding, Hantang Li, Ming Sun, Chao Zhou, Shuyuan Zhu, Zhi Jin, Wei Wang, Dandan Zhan, Jiawei Wu, Jiahao Wu, Luwei Tu, Hongyu An, Xinfeng Zhang, Woon-Ha Yeo, Wang-Taek Oh, Young-Il Kim, Han-Cheol Ryu, Long Sun, Mingjun Zhen, Jinshan Pan, Jiangxin Dong, Jinhui Tang, Yapeng Du, Ao Li, Ziyang He, Lei Luo, Ce Zhu, Xin Yao, Sunder Ali Khowaja, IK Hyun Lee, Jaeho Lee, Seongwan Kim, Nodirkhuja Khujaev, Roman Tsoy",
+    "发表日期": "2024/6/17",
+    "来源": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "页码范围": "6524-6535",
+    "出版商": "IEEE",
+    "简介": "This paper reviews the Challenge on Blind Enhancement of Compressed Image at NTIRE 2024, which aims at enhancing the quality of JPEG images which are compressed with unknown quality factor. The challenge requires that the total size of codes and pre-trained model(s) cannot exceed 300 MB, since we encourage solutions for blind enhancement with generalized models, instead of separately training several models for each quality factor. In this report, we summarize the detailed settings of the challenge, the final results, and the solutions proposed by the participants. The challenge has 129 registered participants and received 13 valid submissions. Several teams (including all TOP 3 teams) have publicly released the codes (see Sec. 4). They gauge the state-of-the-art of blind quality enhancement of compressed image.",
+    "引用总数": "被引用次数：24 2023 2024 2025 2026 1 13 5 4",
+    "学术搜索中的文章": "NTIRE 2024 challenge on blind enhancement of compressed image: Methods and results R Yang, R Timofte, B Li, X Li, M Guo, S Zhao, L Zhang… - 2024 IEEE/CVF Conference on Computer Vision and …, 2024 被引用次数：24 相关文章 所有 5 个版本"
+  },
+  "url": "https://ieeexplore.ieee.org/abstract/document/10678543/",
+  "type": "paper",
+  "metadataTruncated": true
+}

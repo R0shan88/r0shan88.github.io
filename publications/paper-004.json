@@ -1,0 +1,22 @@
+{
+  "id": "paper-004",
+  "title": "Real-time image enhancer via learnable spatial-aware 3d lookup tables",
+  "authors": "Tao Wang, Yong Li, Jingyang Peng, Yipeng Ma, Xian Wang, Fenglong Song, Youliang Yan",
+  "venue": "2021 IEEE/CVF International Conference on Computer Vision (ICCV), 2451-2460, 2021",
+  "year": "2021",
+  "citations": "135",
+  "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QIy6O2EAAAAJ&pagesize=100&citation_for_view=QIy6O2EAAAAJ:d1gkVwhDpl0C",
+  "details": {
+    "作者": "Tao Wang, Yong Li, Jingyang Peng, Yipeng Ma, Xian Wang, Fenglong Song, Youliang Yan",
+    "发表日期": "2021/10/10",
+    "研讨会论文": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+    "页码范围": "2451-2460",
+    "出版商": "IEEE",
+    "简介": "Recently, deep learning-based image enhancement algorithms achieved state-of-the-art (SOTA) performance on several publicly available datasets. However, most existing methods fail to meet practical requirements either for visual perception or for computation efficiency, especially for high-resolution images. In this paper, we propose a novel real-time image enhancer via learnable spatial-aware 3dimentional lookup tables(3D LUTs), which well considers global scenario and local spatial information. Specifically, we introduce a light weight two-head weight predictor that has two outputs. One is a 1D weight vector used for image-level scenario adaptation, the other is a 3D weight map aimed for pixel-wise category fusion. We learn the spatial-aware 3D LUTs and fuse them according to the aforementioned weights in an end-to-end manner. The fused LUT is then used to transform the source image into the target …",
+    "引用总数": "被引用次数：135 2022 2023 2024 2025 2026 16 28 38 30 23",
+    "学术搜索中的文章": "Real-time image enhancer via learnable spatial-aware 3d lookup tables T Wang, Y Li, J Peng, Y Ma, X Wang, F Song, Y Yan - 2021 IEEE/CVF International Conference on Computer …, 2021 被引用次数：135 相关文章 所有 5 个版本"
+  },
+  "url": "https://ieeexplore.ieee.org/abstract/document/9710177/",
+  "type": "paper",
+  "metadataTruncated": false
+}

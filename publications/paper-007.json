@@ -1,0 +1,22 @@
+{
+  "id": "paper-007",
+  "title": "Learned smartphone isp on mobile npus with deep learning, mobile ai 2021 challenge: Report",
+  "authors": "Andrey Ignatov, Cheng-Ming Chiang, Hsien-Kai Kuo, Anastasia Sycheva, Radu Timofte, Min-Hung Chen, Man-Yu Lee, Yu-Syuan Xu, Yu Tseng, Shusong Xu, Jin Guo, Chao-Hung Chen, Ming-Chun Hsyu, Wen-Chia Tsai, Chao-Wei Chen, Grigory Malivenko, Minsu Kwon, Myungje Lee, Jaeyoon Yoo, Changbeom Kang, Shinjo Wang, Zheng Shaolong, Hao Dejun, Xie Fen, Feng Zhuang, Yipeng Ma, Jingyang Peng, Tao Wang, Fenglong Song, Chih-Chung Hsu, Kwan-Lin Chen, Mei-Hsuang Wu, Vishal Chudasama, Kalpesh Prajapati, Heena Patel, Anjali Sarvaiya, Kishor Upla, Kiran Raja, Raghavendra Ramachandra, Christoph Busch, Etienne De Stoutz",
+  "venue": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2021",
+  "year": "2021",
+  "citations": "72",
+  "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QIy6O2EAAAAJ&pagesize=100&citation_for_view=QIy6O2EAAAAJ:zYLM7Y9cAGgC",
+  "details": {
+    "作者": "Andrey Ignatov, Cheng-Ming Chiang, Hsien-Kai Kuo, Anastasia Sycheva, Radu Timofte, Min-Hung Chen, Man-Yu Lee, Yu-Syuan Xu, Yu Tseng, Shusong Xu, Jin Guo, Chao-Hung Chen, Ming-Chun Hsyu, Wen-Chia Tsai, Chao-Wei Chen, Grigory Malivenko, Minsu Kwon, Myungje Lee, Jaeyoon Yoo, Changbeom Kang, Shinjo Wang, Zheng Shaolong, Hao Dejun, Xie Fen, Feng Zhuang, Yipeng Ma, Jingyang Peng, Tao Wang, Fenglong Song, Chih-Chung Hsu, Kwan-Lin Chen, Mei-Hsuang Wu, Vishal Chudasama, Kalpesh Prajapati, Heena Patel, Anjali Sarvaiya, Kishor Upla, Kiran Raja, Raghavendra Ramachandra, Christoph Busch, Etienne De Stoutz",
+    "发表日期": "2021/6/19",
+    "研讨会论文": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "页码范围": "2503-2514",
+    "出版商": "IEEE",
+    "简介": "As the quality of mobile cameras starts to play a crucial role in modern smartphones, more and more attention is now being paid to ISP algorithms used to improve various perceptual aspects of mobile photos. In this Mobile AI challenge, the target was to develop an end-to-end deep learning-based image signal processing (ISP) pipeline that can replace classical hand-crafted ISPs and achieve nearly real-time performance on smartphone NPUs. For this, the participants were provided with a novel learned ISP dataset consisting of RAW-RGB image pairs captured with the Sony IMX586 Quad Bayer mobile sensor and a professional 102-megapixel medium format camera. The runtime of all models was evaluated on the MediaTek Dimensity 1000+ platform with a dedicated AI processing unit capable of accelerating both floating-point and quantized neural networks. The proposed solutions are fully compatible with the …",
+    "引用总数": "被引用次数：72 2021 2022 2023 2024 2025 2026 8 15 8 12 17 12",
+    "学术搜索中的文章": "Learned smartphone isp on mobile npus with deep learning, mobile ai 2021 challenge: Report A Ignatov, CM Chiang, HK Kuo, A Sycheva, R Timofte… - 2021 IEEE/CVF Conference on Computer Vision and …, 2021 被引用次数：72 相关文章 所有 10 个版本"
+  },
+  "url": "https://ieeexplore.ieee.org/abstract/document/9523038/",
+  "type": "paper",
+  "metadataTruncated": true
+}

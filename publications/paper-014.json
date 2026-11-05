@@ -1,0 +1,22 @@
+{
+  "id": "paper-014",
+  "title": "Rebooting computing and low-power image recognition challenge",
+  "authors": "Yung-Hsiang Lu, Alan M Kadin, Alexander C Berg, Thomas M Conte, Erik P DeBenedictis, Rachit Garg, Ganesh Gingade, Bichlien Hoang, Yongzhen Huang, Boxun Li, Jingyu Liu, Wei Liu, Huizi Mao, Junran Peng, Tianqi Tang, Elie K Track, Jingqiu Wang, Tao Wang, Yu Wang, Jun Yao",
+  "venue": "2015 IEEE/ACM International Conference on Computer-Aided Design (ICCAD), 927-932, 2015",
+  "year": "2015",
+  "citations": "25",
+  "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QIy6O2EAAAAJ&pagesize=100&citation_for_view=QIy6O2EAAAAJ:2osOgNQ5qMEC",
+  "details": {
+    "作者": "Yung-Hsiang Lu, Alan M Kadin, Alexander C Berg, Thomas M Conte, Erik P DeBenedictis, Rachit Garg, Ganesh Gingade, Bichlien Hoang, Yongzhen Huang, Boxun Li, Jingyu Liu, Wei Liu, Huizi Mao, Junran Peng, Tianqi Tang, Elie K Track, Jingqiu Wang, Tao Wang, Yu Wang, Jun Yao",
+    "发表日期": "2015/11/2",
+    "研讨会论文": "2015 IEEE/ACM International Conference on Computer-Aided Design (ICCAD)",
+    "页码范围": "927-932",
+    "出版商": "IEEE",
+    "简介": "“Rebooting Computing” (RC) is an effort in the IEEE to rethink future computers. RC started in 2012 by the co-chairs, Elie Track (IEEE Council on Superconductivity) and Tom Conte (Computer Society). RC takes a holistic approach, considering revolutionary as well as evolutionary solutions needed to advance computer technologies. Three summits have been held in 2013 and 2014, discussing different technologies, from emerging devices to user interface, from security to energy efficiency, from neuromorphic to reversible computing. The first part of this paper introduces RC to the design automation community and solicits revolutionary ideas from the community for the directions of future computer research. Energy efficiency is identified as one of the most important challenges in future computer technologies. The importance of energy efficiency spans from miniature embedded sensors to wearable computers, from …",
+    "引用总数": "被引用次数：25 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 3 6 5 5 2 1 1 1",
+    "学术搜索中的文章": "Rebooting computing and low-power image recognition challenge YH Lu, AM Kadin, AC Berg, TM Conte… - 2015 IEEE/ACM International Conference on Computer …, 2015 被引用次数：25 相关文章 所有 9 个版本"
+  },
+  "url": "https://ieeexplore.ieee.org/abstract/document/7372672/",
+  "type": "paper",
+  "metadataTruncated": false
+}

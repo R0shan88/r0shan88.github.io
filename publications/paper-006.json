@@ -1,0 +1,22 @@
+{
+  "id": "paper-006",
+  "title": "NTIRE 2021 challenge on high dynamic range imaging: Dataset, methods and results",
+  "authors": "Eduardo Pérez-Pellitero, Sibi Catley-Chandar, Aleš Leonardis, Radu Timofte, Xian Wang, Yong Li, Tao Wang, Fenglong Song, Zhen Liu, Wenjie Lin, Xinpeng Li, Qing Rao, Ting Jiang, Mingyan Han, Haoqiang Fan, Jian Sun, Shuaicheng Liu, Xiangyu Chen, Yihao Liu, Zhengwen Zhang, Yu Qiao, Chao Dong, Evelyn Yi Lyn Chee, Shanlan Shen, Yubo Duan, Guannan Chen, Mengdi Sun, Yan Gao, Lijie Zhang, Akhil KA, Jiji CV, SMA Sharif, Rizwan Ali Naqvi, Mithun Biswas, Sungjun Kim, Chenjie Xia, Bowen Zhao, Zhangyu Ye, Xiwen Lu, Yanpeng Cao, Jiangxin Yang, Yanlong Cao, Green Rosh KS, Sachin Deepak Lomte, Nikhil Krishnan, BH Pawan Prasad",
+  "venue": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition …, 2021",
+  "year": "2021",
+  "citations": "115",
+  "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QIy6O2EAAAAJ&pagesize=100&citation_for_view=QIy6O2EAAAAJ:Tyk-4Ss8FVUC",
+  "details": {
+    "作者": "Eduardo Pérez-Pellitero, Sibi Catley-Chandar, Aleš Leonardis, Radu Timofte, Xian Wang, Yong Li, Tao Wang, Fenglong Song, Zhen Liu, Wenjie Lin, Xinpeng Li, Qing Rao, Ting Jiang, Mingyan Han, Haoqiang Fan, Jian Sun, Shuaicheng Liu, Xiangyu Chen, Yihao Liu, Zhengwen Zhang, Yu Qiao, Chao Dong, Evelyn Yi Lyn Chee, Shanlan Shen, Yubo Duan, Guannan Chen, Mengdi Sun, Yan Gao, Lijie Zhang, Akhil KA, Jiji CV, SMA Sharif, Rizwan Ali Naqvi, Mithun Biswas, Sungjun Kim, Chenjie Xia, Bowen Zhao, Zhangyu Ye, Xiwen Lu, Yanpeng Cao, Jiangxin Yang, Yanlong Cao, Green Rosh KS, Sachin Deepak Lomte, Nikhil Krishnan, BH Pawan Prasad",
+    "发表日期": "2021/6/19",
+    "来源": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "页码范围": "691-700",
+    "出版商": "IEEE",
+    "简介": "This paper reviews the first challenge on high-dynamic range (HDR) imaging that was part of the New Trends in Image Restoration and Enhancement (NTIRE) workshop, held in conjunction with CVPR 2021. This manuscript focuses on the newly introduced dataset, the proposed methods and their results. The challenge aims at estimating a HDR image from one or multiple respective low-dynamic range (LDR) observations, which might suffer from under-or over-exposed regions and different sources of noise. The challenge is composed by two tracks: In Track 1 only a single LDR image is provided as input, whereas in Track 2 three differently-exposed LDR images with inter-frame motion are available. In both tracks, the ultimate goal is to achieve the best objective HDR reconstruction in terms of PSNR with respect to a ground-truth image, evaluated both directly and with a canonical tonemapping operation.",
+    "引用总数": "被引用次数：115 2021 2022 2023 2024 2025 2026 17 24 19 23 18 14",
+    "学术搜索中的文章": "NTIRE 2021 challenge on high dynamic range imaging: Dataset, methods and results E Pérez-Pellitero, S Catley-Chandar, A Leonardis… - 2021 IEEE/CVF Conference on Computer Vision and …, 2021 被引用次数：115 相关文章 所有 6 个版本"
+  },
+  "url": "https://ieeexplore.ieee.org/abstract/document/9523076/",
+  "type": "paper",
+  "metadataTruncated": true
+}

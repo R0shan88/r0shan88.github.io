@@ -1,0 +1,20 @@
+{
+  "id": "paper-021",
+  "title": "SJ-HD^ 2R: Selective Joint High Dynamic Range and Denoising Imaging for Dynamic Scenes",
+  "authors": "Wei Li, Shuai Xiao, Tianhong Dai, Shanxin Yuan, Tao Wang, Cheng Li, Fenglong Song",
+  "venue": "arXiv preprint arXiv:2206.09611, 2022",
+  "year": "2022",
+  "citations": "6",
+  "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QIy6O2EAAAAJ&pagesize=100&citation_for_view=QIy6O2EAAAAJ:4DMP91E08xMC",
+  "details": {
+    "作者": "Wei Li, Shuai Xiao, Tianhong Dai, Shanxin Yuan, Tao Wang, Cheng Li, Fenglong Song",
+    "发表日期": "2022/6/20",
+    "期刊": "arXiv preprint arXiv:2206.09611",
+    "简介": "Ghosting artifacts, motion blur, and low fidelity in highlight are the main challenges in High Dynamic Range (HDR) imaging from multiple Low Dynamic Range (LDR) images. These issues come from using the medium-exposed image as the reference frame in previous methods. To deal with them, we propose to use the under-exposed image as the reference to avoid these issues. However, the heavy noise in dark regions of the under-exposed image becomes a new problem. Therefore, we propose a joint HDR and denoising pipeline, containing two sub-networks: (i) a pre-denoising network (PreDNNet) to adaptively denoise input LDRs by exploiting exposure priors; (ii) a pyramid cascading fusion network (PCFNet), introducing an attention mechanism and cascading structure in a multi-scale manner. To further leverage these two paradigms, we propose a selective and joint HDR and denoising (SJ-HD R) imaging framework, utilizing scenario-specific priors to conduct the path selection with an accuracy of more than 93.3 . We create the first joint HDR and denoising benchmark dataset, which contains a variety of challenging HDR and denoising scenes and supports the switching of the reference image. Extensive experiment results show that our method achieves superior performance to previous methods.",
+    "引用总数": "被引用次数：6 2022 2023 2024 2025 1 4 1",
+    "学术搜索中的文章": "SJ-HD^ 2R: Selective Joint High Dynamic Range and Denoising Imaging for Dynamic Scenes W Li, S Xiao, T Dai, S Yuan, T Wang, C Li, F Song - arXiv preprint arXiv:2206.09611, 2022 被引用次数：6 相关文章 所有 2 个版本"
+  },
+  "url": "https://arxiv.org/abs/2206.09611",
+  "type": "paper",
+  "metadataTruncated": false
+}

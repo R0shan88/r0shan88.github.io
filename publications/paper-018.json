@@ -1,0 +1,22 @@
+{
+  "id": "paper-018",
+  "title": "An STDP-based supervised learning algorithm for spiking neural networks",
+  "authors": "Zhanhao Hu, Tao Wang, Xiaolin Hu",
+  "venue": "International Conference on Neural Information Processing, 92-100, 2017",
+  "year": "2017",
+  "citations": "18",
+  "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QIy6O2EAAAAJ&pagesize=100&citation_for_view=QIy6O2EAAAAJ:qjMakFHDy7sC",
+  "details": {
+    "作者": "Zhanhao Hu, Tao Wang, Xiaolin Hu",
+    "发表日期": "2017/10/26",
+    "图书": "International Conference on Neural Information Processing",
+    "页码范围": "92-100",
+    "出版商": "Springer International Publishing",
+    "简介": "Compared with rate-based artificial neural networks, Spiking Neural Networks (SNN) provide a more biological plausible model for the brain. But how they perform supervised learning remains elusive. Inspired by recent works of Bengio et al., we propose a supervised learning algorithm based on Spike-Timing Dependent Plasticity (STDP) for a hierarchical SNN consisting of Leaky Integrate-and-fire (LIF) neurons. A time window is designed for the presynaptic neuron and only the spikes in this window take part in the STDP updating process. The model is trained on the MNIST dataset. The classification accuracy approach that of a Multilayer Perceptron (MLP) with similar architecture trained by the standard back-propagation algorithm.",
+    "引用总数": "被引用次数：18 2018 2019 2020 2021 2022 2023 2024 2025 2026 2 3 1 1 3 4 2 2",
+    "学术搜索中的文章": "An STDP-based supervised learning algorithm for spiking neural networks Z Hu, T Wang, X Hu - International Conference on Neural Information …, 2017 被引用次数：18 相关文章 所有 6 个版本"
+  },
+  "url": "https://link.springer.com/chapter/10.1007/978-3-319-70096-0_10",
+  "type": "paper",
+  "metadataTruncated": false
+}

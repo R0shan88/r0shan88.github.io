@@ -1,0 +1,22 @@
+{
+  "id": "paper-019",
+  "title": "Towards real-world hdrtv reconstruction: A data synthesis-based approach",
+  "authors": "Zhen Cheng, Tao Wang, Yong Li, Fenglong Song, Chang Chen, Zhiwei Xiong",
+  "venue": "European Conference on Computer Vision, 199-216, 2022",
+  "year": "2022",
+  "citations": "10",
+  "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QIy6O2EAAAAJ&pagesize=100&citation_for_view=QIy6O2EAAAAJ:mVmsd5A6BfQC",
+  "details": {
+    "作者": "Zhen Cheng, Tao Wang, Yong Li, Fenglong Song, Chang Chen, Zhiwei Xiong",
+    "发表日期": "2022/10/23",
+    "图书": "European Conference on Computer Vision",
+    "页码范围": "199-216",
+    "出版商": "Springer Nature Switzerland",
+    "简介": "Existing deep learning based HDRTV reconstruction methods assume one kind of tone mapping operators (TMOs) as the degradation procedure to synthesize SDRTV-HDRTV pairs for supervised training. In this paper, we argue that, although traditional TMOs exploit efficient dynamic range compression priors, they have several drawbacks on modeling the realistic degradation: information over-preservation, color bias and possible artifacts, making the trained reconstruction networks hard to generalize well to real-world cases. To solve this problem, we propose a learning-based data synthesis approach to learn the properties of real-world SDRTVs by integrating several tone mapping priors into both network structures and loss functions. In specific, we design a conditioned two-stream network with prior tone mapping results as a guidance to synthesize SDRTVs by both global and local transformations. To train the …",
+    "引用总数": "被引用次数：10 2023 2024 2025 3 4 3",
+    "学术搜索中的文章": "Towards real-world hdrtv reconstruction: A data synthesis-based approach Z Cheng, T Wang, Y Li, F Song, C Chen, Z Xiong - European Conference on Computer Vision, 2022 被引用次数：10 相关文章 所有 4 个版本"
+  },
+  "url": "https://link.springer.com/chapter/10.1007/978-3-031-19800-7_12",
+  "type": "paper",
+  "metadataTruncated": false
+}

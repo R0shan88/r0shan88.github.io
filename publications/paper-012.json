@@ -1,0 +1,22 @@
+{
+  "id": "paper-012",
+  "title": "MaPU: A novel mathematical computing architecture",
+  "authors": "Donglin Wang, Xueliang Du, Leizu Yin, Chen Lin, Hong Ma, Weili Ren, Huijuan Wang, Xingang Wang, Shaolin Xie, Lei Wang, Zijun Liu, Tao Wang, Zhonghua Pu, Guangxin Ding, Mengchen Zhu, Lipeng Yang, Ruoshan Guo, Zhiwei Zhang, Xiao Lin, Jie Hao, Yongyong Yang, Wenqin Sun, Fabiao Zhou, NuoZhou Xiao, Qian Cui, Xiaoqin Wang",
+  "venue": "2016 IEEE International Symposium on High Performance Computer Architecture …, 2016",
+  "year": "2016",
+  "citations": "32",
+  "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QIy6O2EAAAAJ&pagesize=100&citation_for_view=QIy6O2EAAAAJ:9yKSN-GCB0IC",
+  "details": {
+    "作者": "Donglin Wang, Xueliang Du, Leizu Yin, Chen Lin, Hong Ma, Weili Ren, Huijuan Wang, Xingang Wang, Shaolin Xie, Lei Wang, Zijun Liu, Tao Wang, Zhonghua Pu, Guangxin Ding, Mengchen Zhu, Lipeng Yang, Ruoshan Guo, Zhiwei Zhang, Xiao Lin, Jie Hao, Yongyong Yang, Wenqin Sun, Fabiao Zhou, NuoZhou Xiao, Qian Cui, Xiaoqin Wang",
+    "发表日期": "2016/3/12",
+    "研讨会论文": "2016 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+    "页码范围": "457-468",
+    "出版商": "IEEE",
+    "简介": "As the feature size of the semiconductor process is scaling down to 10nm and below, it is possible to assemble systems with high performance processors that can theoretically provide computational power of up to tens of PLOPS. However, the power consumption of these systems is also rocketing up to tens of millions watts, and the actual performance is only around 60% of the theoretical performance. Today, power efficiency and sustained performance have become the main foci of processor designers. Traditional computing architecture such as superscalar and GPGPU are proven to be power inefficient, and there is a big gap between the actual and peak performance. In this paper, we present the MaPU architecture, a novel architecture which is suitable for data-intensive computing with great power efficiency and sustained computation throughput. To achieve this goal, MaPU attempts to optimize the …",
+    "引用总数": "被引用次数：32 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2 7 7 3 1 2 1 1 3 2 3",
+    "学术搜索中的文章": "MaPU: A novel mathematical computing architecture D Wang, X Du, L Yin, C Lin, H Ma, W Ren, H Wang… - 2016 IEEE International Symposium on High …, 2016 被引用次数：32 相关文章 所有 7 个版本"
+  },
+  "url": "https://ieeexplore.ieee.org/abstract/document/7446086/",
+  "type": "paper",
+  "metadataTruncated": true
+}

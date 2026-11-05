@@ -1,0 +1,22 @@
+{
+  "id": "paper-003",
+  "title": "Rethinking image restoration for object detection",
+  "authors": "Shangquan Sun, Wenqi Ren, Tao Wang, Xiaochun Cao",
+  "venue": "Advances in Neural Information Processing Systems 35, 4461-4474, 2022",
+  "year": "2022",
+  "citations": "135",
+  "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QIy6O2EAAAAJ&pagesize=100&citation_for_view=QIy6O2EAAAAJ:IWHjjKOFINEC",
+  "details": {
+    "作者": "Shangquan Sun, Wenqi Ren, Tao Wang, Xiaochun Cao",
+    "发表日期": "2022/12/6",
+    "期刊": "Advances in Neural Information Processing Systems",
+    "卷号": "35",
+    "页码范围": "4461-4474",
+    "简介": "Although image restoration has achieved significant progress, its potential to assist object detectors in adverse imaging conditions lacks enough attention. It is reported that the existing image restoration methods cannot improve the object detector performance and sometimes even reduce the detection performance. To address the issue, we propose a targeted adversarial attack in the restoration procedure to boost object detection performance after restoration. Specifically, we present an ADAM-like adversarial attack to generate pseudo ground truth for restoration training. Resultant restored images are close to original sharp images, and at the same time, lead to better results of object detection. We conduct extensive experiments in image dehazing and low light enhancement and show the superiority of our method over conventional training and other domain adaptation and multi-task methods. The proposed pipeline can be applied to all restoration methods and detectors in both one-and two-stage.",
+    "引用总数": "被引用次数：135 2023 2024 2025 2026 4 43 45 43",
+    "学术搜索中的文章": "Rethinking image restoration for object detection S Sun, W Ren, T Wang, X Cao - Advances in Neural Information Processing Systems, 2022 被引用次数：135 相关文章 所有 3 个版本"
+  },
+  "url": "https://proceedings.neurips.cc/paper_files/paper/2022/hash/1cac8326ce3fbe79171db9754211530c-Abstract-Conference.html",
+  "type": "paper",
+  "metadataTruncated": false
+}
