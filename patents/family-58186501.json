@@ -1,0 +1,102 @@
+{
+  "id": "family-58186501",
+  "type": "patent",
+  "title": "一种数据访问方法、装置及系统",
+  "authors": "汪涛, 张广飞, 宋风龙",
+  "inventors": [
+    "汪涛",
+    "张广飞",
+    "宋风龙"
+  ],
+  "inventorVerified": true,
+  "inventorVerification": "已在来源发明人名单中确认汪涛 / Tao Wang / Wang Tao；姓名核对不等于独立身份鉴定。",
+  "applicants": [
+    "Huawei Technologies Co Ltd"
+  ],
+  "applicationDate": "2015-09-02",
+  "year": "2015",
+  "dateBasis": "同族已核验记录的最早申请日",
+  "status": "active",
+  "statusLabel": "含有效授权",
+  "publication": "CN107209761B",
+  "url": "https://patents.google.com/patent/CN107209761B/zh",
+  "checkedAt": "2026-11-05",
+  "members": [
+    {
+      "publication": "WO2017035813A1",
+      "application": "PCT/CN2015/088872",
+      "inventors": [
+        "汪涛",
+        "张广飞",
+        "宋风龙"
+      ],
+      "nameMatched": true,
+      "assignees": [
+        "Huawei Technologies Co Ltd"
+      ],
+      "status": "Ceased",
+      "filingDate": "2015-09-02",
+      "priorityDate": "2015-09-02",
+      "publicationDate": "2017-03-09",
+      "sourceUrl": "https://patents.google.com/patent/WO2017035813A1/en",
+      "sourceName": "Google Patents",
+      "checkedAt": "2026-11-05",
+      "statusLabel": "国际申请程序已终止（Ceased）",
+      "superseded": false
+    },
+    {
+      "publication": "CN107209761B",
+      "application": "CN201580001271.1A",
+      "inventors": [
+        "汪涛",
+        "张广飞",
+        "宋风龙"
+      ],
+      "nameMatched": true,
+      "assignees": [
+        "Huawei Technologies Co Ltd"
+      ],
+      "status": "Active",
+      "filingDate": "2015-09-02",
+      "priorityDate": "2015-09-02",
+      "publicationDate": "2019-08-06",
+      "sourceUrl": "https://patents.google.com/patent/CN107209761B/zh",
+      "sourceName": "Google Patents",
+      "checkedAt": "2026-11-05",
+      "statusLabel": "授权有效（来源 Active）",
+      "superseded": false
+    },
+    {
+      "publication": "CN107209761A",
+      "application": "CN201580001271.1A",
+      "inventors": [
+        "汪涛",
+        "张广飞",
+        "宋风龙"
+      ],
+      "nameMatched": true,
+      "assignees": [
+        "Huawei Technologies Co Ltd"
+      ],
+      "status": "Granted",
+      "filingDate": "2015-09-02",
+      "priorityDate": "2015-09-02",
+      "publicationDate": "2017-09-26",
+      "sourceUrl": "https://patents.google.com/patent/CN107209761A/zh",
+      "sourceName": "Google Patents",
+      "checkedAt": "2026-11-05",
+      "statusLabel": "已有授权版本",
+      "superseded": true
+    }
+  ],
+  "familyIds": [
+    "58186501"
+  ],
+  "groups": [
+    "Huawei"
+  ],
+  "deduplicationNote": "同申请的公开/授权版本及有同族或分案证据的记录合并展示；独立地区的状态分别保留。",
+  "venue": "CN107209761B",
+  "citations": "",
+  "editUrl": "https://github.com/frank2wang87/frank2wang87.github.io/edit/main/patents/family-58186501.json"
+}

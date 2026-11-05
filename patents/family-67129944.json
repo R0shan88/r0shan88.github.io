@@ -1,0 +1,125 @@
+{
+  "id": "family-67129944",
+  "type": "patent",
+  "title": "图像去噪方法和装置",
+  "authors": "宋风龙, 刘浏, 汪涛",
+  "inventors": [
+    "宋风龙",
+    "刘浏",
+    "汪涛"
+  ],
+  "inventorVerified": true,
+  "inventorVerification": "已在来源发明人名单中确认汪涛 / Tao Wang / Wang Tao；姓名核对不等于独立身份鉴定。",
+  "applicants": [
+    "Huawei Technologies Co Ltd"
+  ],
+  "applicationDate": "2019-03-01",
+  "year": "2019",
+  "dateBasis": "同族已核验记录的最早申请日",
+  "status": "active",
+  "statusLabel": "含有效授权",
+  "publication": "CN109993707B",
+  "url": "https://patents.google.com/patent/CN109993707B/zh",
+  "checkedAt": "2026-11-05",
+  "members": [
+    {
+      "publication": "US12062158B2",
+      "application": "US17/462,176",
+      "inventors": [
+        "Fenglong Song",
+        "Liu Liu",
+        "Tao Wang"
+      ],
+      "nameMatched": true,
+      "assignees": [
+        "Huawei Technologies Co Ltd"
+      ],
+      "status": "Active",
+      "filingDate": "2021-08-31",
+      "priorityDate": "2019-03-01",
+      "publicationDate": "2024-08-13",
+      "sourceUrl": "https://patents.google.com/patent/US12062158B2/en",
+      "sourceName": "Google Patents",
+      "checkedAt": "2026-11-05",
+      "statusLabel": "授权有效（来源 Active）",
+      "superseded": false
+    },
+    {
+      "publication": "WO2020177607A1",
+      "application": "PCT/CN2020/076928",
+      "inventors": [
+        "宋风龙",
+        "刘浏",
+        "汪涛"
+      ],
+      "nameMatched": true,
+      "assignees": [
+        "Huawei Technologies Co Ltd"
+      ],
+      "status": "Ceased",
+      "filingDate": "2020-02-27",
+      "priorityDate": "2019-03-01",
+      "publicationDate": "2020-09-10",
+      "sourceUrl": "https://patents.google.com/patent/WO2020177607A1/en",
+      "sourceName": "Google Patents",
+      "checkedAt": "2026-11-05",
+      "statusLabel": "国际申请程序已终止（Ceased）",
+      "superseded": false
+    },
+    {
+      "publication": "CN109993707B",
+      "application": "CN201910156951.0A",
+      "inventors": [
+        "宋风龙",
+        "刘浏",
+        "汪涛"
+      ],
+      "nameMatched": true,
+      "assignees": [
+        "Huawei Technologies Co Ltd"
+      ],
+      "status": "Active",
+      "filingDate": "2019-03-01",
+      "priorityDate": "2019-03-01",
+      "publicationDate": "2023-05-12",
+      "sourceUrl": "https://patents.google.com/patent/CN109993707B/zh",
+      "sourceName": "Google Patents",
+      "checkedAt": "2026-11-05",
+      "statusLabel": "授权有效（来源 Active）",
+      "superseded": false
+    },
+    {
+      "publication": "CN109993707A",
+      "application": "CN201910156951.0A",
+      "inventors": [
+        "宋风龙",
+        "刘浏",
+        "汪涛"
+      ],
+      "nameMatched": true,
+      "assignees": [
+        "Huawei Technologies Co Ltd"
+      ],
+      "status": "Granted",
+      "filingDate": "2019-03-01",
+      "priorityDate": "2019-03-01",
+      "publicationDate": "2019-07-09",
+      "sourceUrl": "https://patents.google.com/patent/CN109993707A/zh",
+      "sourceName": "Google Patents",
+      "checkedAt": "2026-11-05",
+      "statusLabel": "已有授权版本",
+      "superseded": true
+    }
+  ],
+  "familyIds": [
+    "67129944"
+  ],
+  "groups": [
+    "Huawei",
+    "Scholar"
+  ],
+  "deduplicationNote": "同申请的公开/授权版本及有同族或分案证据的记录合并展示；独立地区的状态分别保留。",
+  "venue": "CN109993707B",
+  "citations": "",
+  "editUrl": "https://github.com/frank2wang87/frank2wang87.github.io/edit/main/patents/family-67129944.json"
+}

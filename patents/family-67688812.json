@@ -1,0 +1,130 @@
+{
+  "id": "family-67688812",
+  "type": "patent",
+  "title": "图像处理方法、装置及其计算机程序产品",
+  "authors": "维克多·弗拉基米罗维奇·斯米尔诺夫, 颜友亮, 汪涛, 邹学益",
+  "inventors": [
+    "维克多·弗拉基米罗维奇·斯米尔诺夫",
+    "颜友亮",
+    "汪涛",
+    "邹学益"
+  ],
+  "inventorVerified": true,
+  "inventorVerification": "已在来源发明人名单中确认汪涛 / Tao Wang / Wang Tao；姓名核对不等于独立身份鉴定。",
+  "applicants": [
+    "Huawei Technologies Co Ltd"
+  ],
+  "applicationDate": "2019-06-25",
+  "year": "2019",
+  "dateBasis": "同族已核验记录的最早申请日",
+  "status": "active",
+  "statusLabel": "含有效授权",
+  "publication": "CN114008661B",
+  "url": "https://patents.google.com/patent/CN114008661B/zh",
+  "checkedAt": "2026-11-05",
+  "members": [
+    {
+      "publication": "US20220114770A1",
+      "application": "US17/556,421",
+      "inventors": [
+        "Viktor Vladimirovich SMIRNOV",
+        "Youliang Yan",
+        "Tao Wang",
+        "Xueyi ZOU"
+      ],
+      "nameMatched": true,
+      "assignees": [
+        "Huawei Technologies Co Ltd"
+      ],
+      "status": "Granted",
+      "filingDate": "2021-12-20",
+      "priorityDate": "2019-06-25",
+      "publicationDate": "2022-04-14",
+      "sourceUrl": "https://patents.google.com/patent/US20220114770A1/en",
+      "sourceName": "Google Patents",
+      "checkedAt": "2026-11-05",
+      "statusLabel": "已有授权版本",
+      "superseded": true
+    },
+    {
+      "publication": "US12056793B2",
+      "application": "US17/556,421",
+      "inventors": [
+        "Viktor Vladimirovich SMIRNOV",
+        "Youliang Yan",
+        "Tao Wang",
+        "Xueyi ZOU"
+      ],
+      "nameMatched": true,
+      "assignees": [
+        "Huawei Technologies Co Ltd"
+      ],
+      "status": "Active",
+      "filingDate": "2021-12-20",
+      "priorityDate": "2019-06-25",
+      "publicationDate": "2024-08-06",
+      "sourceUrl": "https://patents.google.com/patent/US12056793B2/en",
+      "sourceName": "Google Patents",
+      "checkedAt": "2026-11-05",
+      "statusLabel": "授权有效（来源 Active）",
+      "superseded": false
+    },
+    {
+      "publication": "CN114008661B",
+      "application": "CN201980097713.5A",
+      "inventors": [
+        "维克多·弗拉基米罗维奇·斯米尔诺夫",
+        "颜友亮",
+        "汪涛",
+        "邹学益"
+      ],
+      "nameMatched": true,
+      "assignees": [
+        "Huawei Technologies Co Ltd"
+      ],
+      "status": "Active",
+      "filingDate": "2019-06-25",
+      "priorityDate": "2019-06-25",
+      "publicationDate": "2025-03-07",
+      "sourceUrl": "https://patents.google.com/patent/CN114008661B/zh",
+      "sourceName": "Google Patents",
+      "checkedAt": "2026-11-05",
+      "statusLabel": "授权有效（来源 Active）",
+      "superseded": false
+    },
+    {
+      "publication": "CN114008661A",
+      "application": "CN201980097713.5A",
+      "inventors": [
+        "维克多·弗拉基米罗维奇·斯米尔诺夫",
+        "颜友亮",
+        "汪涛",
+        "邹学益"
+      ],
+      "nameMatched": true,
+      "assignees": [
+        "Huawei Technologies Co Ltd"
+      ],
+      "status": "Granted",
+      "filingDate": "2019-06-25",
+      "priorityDate": "2019-06-25",
+      "publicationDate": "2022-02-01",
+      "sourceUrl": "https://patents.google.com/patent/CN114008661A/zh",
+      "sourceName": "Google Patents",
+      "checkedAt": "2026-11-05",
+      "statusLabel": "已有授权版本",
+      "superseded": true
+    }
+  ],
+  "familyIds": [
+    "67688812"
+  ],
+  "groups": [
+    "Huawei",
+    "Scholar"
+  ],
+  "deduplicationNote": "同申请的公开/授权版本及有同族或分案证据的记录合并展示；独立地区的状态分别保留。",
+  "venue": "CN114008661B",
+  "citations": "",
+  "editUrl": "https://github.com/frank2wang87/frank2wang87.github.io/edit/main/patents/family-67688812.json"
+}

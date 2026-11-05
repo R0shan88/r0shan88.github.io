@@ -1,0 +1,80 @@
+{
+  "id": "family-57732294",
+  "type": "patent",
+  "title": "一种针对乘累加运算的处理方法及装置",
+  "authors": "汪涛, 张广飞, 蔡卫光",
+  "inventors": [
+    "汪涛",
+    "张广飞",
+    "蔡卫光"
+  ],
+  "inventorVerified": true,
+  "inventorVerification": "已在来源发明人名单中确认汪涛 / Tao Wang / Wang Tao；姓名核对不等于独立身份鉴定。",
+  "applicants": [
+    "Honor Device Co Ltd"
+  ],
+  "applicationDate": "2015-06-15",
+  "year": "2015",
+  "dateBasis": "同族已核验记录的最早申请日",
+  "status": "excluded",
+  "statusLabel": "已移出默认列表",
+  "publication": "CN106325812B",
+  "url": "https://patents.google.com/patent/CN106325812B/zh",
+  "checkedAt": "2026-11-05",
+  "members": [
+    {
+      "publication": "CN106325812B",
+      "application": "CN201510331183.XA",
+      "inventors": [
+        "汪涛",
+        "张广飞",
+        "蔡卫光"
+      ],
+      "nameMatched": true,
+      "assignees": [
+        "Honor Device Co Ltd"
+      ],
+      "status": "Expired - Fee Related",
+      "filingDate": "2015-06-15",
+      "priorityDate": "2015-06-15",
+      "publicationDate": "2019-03-08",
+      "sourceUrl": "https://patents.google.com/patent/CN106325812B/zh",
+      "sourceName": "Google Patents",
+      "checkedAt": "2026-11-05",
+      "statusLabel": "未缴费失效（来源记录）",
+      "superseded": false
+    },
+    {
+      "publication": "CN106325812A",
+      "application": "CN201510331183.XA",
+      "inventors": [
+        "汪涛",
+        "张广飞",
+        "蔡卫光"
+      ],
+      "nameMatched": true,
+      "assignees": [
+        "Honor Device Co Ltd"
+      ],
+      "status": "Granted",
+      "filingDate": "2015-06-15",
+      "priorityDate": "2015-06-15",
+      "publicationDate": "2017-01-11",
+      "sourceUrl": "https://patents.google.com/patent/CN106325812A/zh",
+      "sourceName": "Google Patents",
+      "checkedAt": "2026-11-05",
+      "statusLabel": "已有授权版本",
+      "superseded": true
+    }
+  ],
+  "familyIds": [
+    "57732294"
+  ],
+  "groups": [
+    "Huawei"
+  ],
+  "deduplicationNote": "已核实终止、放弃或失效；不列入默认专利列表。",
+  "venue": "CN106325812B",
+  "citations": "",
+  "editUrl": "https://github.com/frank2wang87/frank2wang87.github.io/edit/main/patents/family-57732294.json"
+}

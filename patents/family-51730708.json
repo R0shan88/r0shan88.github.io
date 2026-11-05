@@ -1,0 +1,96 @@
+{
+  "id": "family-51730708",
+  "type": "patent",
+  "title": "Processor with Polymorphic Instruction Set Architecture",
+  "authors": "Donglin Wang, Shaolin Xie, Yongyong Yang, Leizu Yin, Lei Wang, Zijun Liu, Tao Wang, Xing Zhang",
+  "inventors": [
+    "Donglin Wang",
+    "Shaolin Xie",
+    "Yongyong Yang",
+    "Leizu Yin",
+    "Lei Wang",
+    "Zijun Liu",
+    "Tao Wang",
+    "Xing Zhang"
+  ],
+  "inventorVerified": true,
+  "inventorVerification": "已在来源发明人名单中确认汪涛 / Tao Wang / Wang Tao；姓名核对不等于独立身份鉴定。",
+  "applicants": [
+    "Beijing Smartlogic Technology Ltd"
+  ],
+  "applicationDate": "2013-04-19",
+  "year": "2013",
+  "dateBasis": "同族已核验记录的最早申请日",
+  "status": "excluded",
+  "statusLabel": "已移出默认列表",
+  "publication": "US20160162290A1",
+  "url": "https://patents.google.com/patent/US20160162290A1/en",
+  "checkedAt": "2026-11-05",
+  "members": [
+    {
+      "publication": "WO2014169477A1",
+      "application": "PCT/CN2013/074426",
+      "inventors": [
+        "王东琳",
+        "谢少林",
+        "杨勇勇",
+        "尹磊祖",
+        "王磊",
+        "刘子君",
+        "汪涛",
+        "张星"
+      ],
+      "nameMatched": true,
+      "assignees": [
+        "Institute of Automation"
+      ],
+      "status": "Ceased",
+      "filingDate": "2013-04-19",
+      "priorityDate": "2013-04-19",
+      "publicationDate": "2014-10-23",
+      "sourceUrl": "https://patents.google.com/patent/WO2014169477A1/en",
+      "sourceName": "Google Patents",
+      "checkedAt": "2026-11-05",
+      "statusLabel": "国际申请程序已终止（Ceased）",
+      "superseded": false
+    },
+    {
+      "publication": "US20160162290A1",
+      "application": "US14/785,385",
+      "inventors": [
+        "Donglin Wang",
+        "Shaolin Xie",
+        "Yongyong Yang",
+        "Leizu Yin",
+        "Lei Wang",
+        "Zijun Liu",
+        "Tao Wang",
+        "Xing Zhang"
+      ],
+      "nameMatched": true,
+      "assignees": [
+        "Beijing Smartlogic Technology Ltd"
+      ],
+      "status": "Abandoned",
+      "filingDate": "2013-04-19",
+      "priorityDate": "2013-04-19",
+      "publicationDate": "2016-06-09",
+      "sourceUrl": "https://patents.google.com/patent/US20160162290A1/en",
+      "sourceName": "Google Patents",
+      "checkedAt": "2026-11-05",
+      "statusLabel": "已放弃 / 终止（Abandoned）",
+      "superseded": false
+    }
+  ],
+  "familyIds": [
+    "51730708"
+  ],
+  "groups": [
+    "CASIA",
+    "Scholar"
+  ],
+  "deduplicationNote": "已核实终止、放弃或失效；不列入默认专利列表。",
+  "venue": "US20160162290A1",
+  "citations": "",
+  "editUrl": "https://github.com/frank2wang87/frank2wang87.github.io/edit/main/patents/family-51730708.json"
+}

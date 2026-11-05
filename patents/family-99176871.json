@@ -1,0 +1,86 @@
+{
+  "id": "family-99176871",
+  "type": "patent",
+  "title": "交互系统、问答处理方法及计算机可读存储介质",
+  "authors": "金熠波, 单弈城, 汪涛, 文长春, 郭贺飞",
+  "inventors": [
+    "金熠波",
+    "单弈城",
+    "汪涛",
+    "文长春",
+    "郭贺飞"
+  ],
+  "inventorVerified": true,
+  "inventorVerification": "已在来源发明人名单中确认汪涛 / Tao Wang / Wang Tao；姓名核对不等于独立身份鉴定。",
+  "applicants": [
+    "Huawei Technologies Co Ltd"
+  ],
+  "applicationDate": "2024-09-30",
+  "year": "2024",
+  "dateBasis": "同族已核验记录的最早申请日",
+  "status": "pending",
+  "statusLabel": "申请公开",
+  "publication": "CN121765034A",
+  "url": "https://patents.google.com/patent/CN121765034A/zh",
+  "checkedAt": "2026-11-05",
+  "members": [
+    {
+      "publication": "WO2026066344A1",
+      "application": "PCT/CN2025/104107",
+      "inventors": [
+        "金熠波",
+        "单弈城",
+        "汪涛",
+        "文长春",
+        "郭贺飞"
+      ],
+      "nameMatched": true,
+      "assignees": [
+        "Huawei Technologies Co Ltd"
+      ],
+      "status": "Pending",
+      "filingDate": "2025-06-26",
+      "priorityDate": "2024-09-30",
+      "publicationDate": "2026-04-02",
+      "sourceUrl": "https://patents.google.com/patent/WO2026066344A1/en",
+      "sourceName": "Google Patents",
+      "checkedAt": "2026-11-05",
+      "statusLabel": "申请公开（来源 Pending）",
+      "superseded": false
+    },
+    {
+      "publication": "CN121765034A",
+      "application": "CN202411396990.5A",
+      "inventors": [
+        "金熠波",
+        "单弈城",
+        "汪涛",
+        "文长春",
+        "郭贺飞"
+      ],
+      "nameMatched": true,
+      "assignees": [
+        "Huawei Technologies Co Ltd"
+      ],
+      "status": "Pending",
+      "filingDate": "2024-09-30",
+      "priorityDate": "2024-09-30",
+      "publicationDate": "2026-03-31",
+      "sourceUrl": "https://patents.google.com/patent/CN121765034A/zh",
+      "sourceName": "Google Patents",
+      "checkedAt": "2026-11-05",
+      "statusLabel": "申请公开（来源 Pending）",
+      "superseded": false
+    }
+  ],
+  "familyIds": [
+    "99176871"
+  ],
+  "groups": [
+    "Huawei"
+  ],
+  "deduplicationNote": "同申请的公开/授权版本及有同族或分案证据的记录合并展示；独立地区的状态分别保留。",
+  "venue": "CN121765034A",
+  "citations": "",
+  "editUrl": "https://github.com/frank2wang87/frank2wang87.github.io/edit/main/patents/family-99176871.json"
+}

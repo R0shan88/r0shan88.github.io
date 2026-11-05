@@ -401,28 +401,6 @@
       "metadataTruncated": false
     },
     {
-      "id": "QIy6O2EAAAAJ:roLk4NBRz8UC",
-      "title": "Method and system for generating accelerator program",
-      "authors": "T Wang, F Song, J Yao",
-      "venue": "US Patent 10,372,429, 2018",
-      "year": "2018",
-      "citations": "13",
-      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QIy6O2EAAAAJ&pagesize=100&citation_for_view=QIy6O2EAAAAJ:roLk4NBRz8UC",
-      "details": {
-        "发明者": "Tao Wang, Fenglong Song, Jun Yao",
-        "发表日期": "2018/5/24",
-        "专利局": "US",
-        "专利号": "10372429",
-        "专利申请号": "15/988,225",
-        "简介": "(57) ABSTRACT A method for generating an accelerator program is disclosed, to help increase utilization of an accelerator and increase program development efficiency. In some feasible imple mentations of the present invention, the method includes: obtaining an accelerator program description that is based on a state machine, where the accelerator program description includes multiple state machines separately configured to implement an application program, and the multiple state machines form a pipeline according to a data dependency in a directed acyclic graph DAG corresponding to the appli cation program; and performing state machine splicing on the state machines in the accelerator program description by using an accelerator compilation tool, to generate an accel erator program.",
-        "引用总数": "被引用次数：13 2020 2021 2022 2023 2024 3 4 5 1",
-        "学术搜索中的文章": "Method and system for generating accelerator program T Wang, F Song, J Yao - US Patent App. 15/988,225, 2018 被引用次数：13 相关文章 所有 2 个版本"
-      },
-      "url": "https://patents.google.com/patent/US20180267784A1/en",
-      "type": "patent",
-      "metadataTruncated": false
-    },
-    {
       "id": "QIy6O2EAAAAJ:mVmsd5A6BfQC",
       "title": "Towards real-world hdrtv reconstruction: A data synthesis-based approach",
       "authors": "Zhen Cheng, Tao Wang, Yong Li, Fenglong Song, Chang Chen, Zhiwei Xiong",
@@ -487,6 +465,60 @@
       "metadataTruncated": false
     },
     {
+      "id": "QIy6O2EAAAAJ:maZDTaKrznsC",
+      "title": "P/D-Device: Disaggregated Large Language Model between Cloud and Devices",
+      "authors": "Yibo Jin, Yixu Xu, Yue Chen, Chengbin Wang, Tao Wang, Jiaqi Huang, Rongfei Zhang, Yiming Dong, Yuting Yan, Ke Cheng, Yingjie Zhu, Shulan Wang, Qianqian Tang, Shuaishuai Meng, Guanxin Cheng, Ze Wang, Shuyan Miao, Ketao Wang, Wen Liu, Yifan Yang, Tong Zhang, Anran Wang, Chengzhou Lu, Tiantian Dong, Yongsheng Zhang, Zhe Wang, Hefei Guo, Hongjie Liu, Wei Lu, Zhengyong Zhang",
+      "venue": "arXiv preprint arXiv:2508.09035, 2025",
+      "year": "2025",
+      "citations": "2",
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QIy6O2EAAAAJ&pagesize=100&citation_for_view=QIy6O2EAAAAJ:maZDTaKrznsC",
+      "details": {
+        "作者": "Yibo Jin, Yixu Xu, Yue Chen, Chengbin Wang, Tao Wang, Jiaqi Huang, Rongfei Zhang, Yiming Dong, Yuting Yan, Ke Cheng, Yingjie Zhu, Shulan Wang, Qianqian Tang, Shuaishuai Meng, Guanxin Cheng, Ze Wang, Shuyan Miao, Ketao Wang, Wen Liu, Yifan Yang, Tong Zhang, Anran Wang, Chengzhou Lu, Tiantian Dong, Yongsheng Zhang, Zhe Wang, Hefei Guo, Hongjie Liu, Wei Lu, Zhengyong Zhang",
+        "发表日期": "2025/8/12",
+        "期刊": "arXiv preprint arXiv:2508.09035",
+        "简介": "Serving disaggregated large language models has been widely adopted in industrial practice for enhanced performance. However, too many tokens generated in decoding phase, i.e., occupying the resources for a long time, essentially hamper the cloud from achieving a higher throughput. Meanwhile, due to limited on-device resources, the time to first token (TTFT), i.e., the latency of prefill phase, increases dramatically with the growth on prompt length. In order to concur with such a bottleneck on resources, i.e., long occupation in cloud and limited on-device computing capacity, we propose to separate large language model between cloud and devices. That is, the cloud helps a portion of the content for each device, only in its prefill phase. Specifically, after receiving the first token from the cloud, decoupling with its own prefill, the device responds to the user immediately for a lower TTFT. Then, the following tokens from cloud are presented via a speed controller for smoothed TPOT (the time per output token), until the device catches up with the progress. On-device prefill is then amortized using received tokens while the resource usage in cloud is controlled. Moreover, during cloud prefill, the prompt can be refined, using those intermediate data already generated, to further speed up on-device inference. We implement such a scheme P/D-Device, and confirm its superiority over other alternatives. We further propose an algorithm to decide the best settings. Real-trace experiments show that TTFT decreases at least 60%, maximum TPOT is about tens of milliseconds, and cloud throughput increases by up to 15x.",
+        "引用总数": "被引用次数：2 2026 2",
+        "学术搜索中的文章": "P/D-Device: Disaggregated Large Language Model between Cloud and Devices Y Jin, Y Xu, Y Chen, C Wang, T Wang, J Huang… - arXiv preprint arXiv:2508.09035, 2025 被引用次数：2 相关文章 所有 2 个版本"
+      },
+      "url": "https://arxiv.org/abs/2508.09035",
+      "type": "paper",
+      "metadataTruncated": false
+    }
+  ],
+  "education": [],
+  "experience": [],
+  "patents": [],
+  "metrics": {
+    "citations": "1567",
+    "hIndex": "18",
+    "i10Index": "20"
+  },
+  "sourceRecordCount": 40,
+  "importNotes": "论文元数据沿用 Scholar 导入快照；专利以 patents/index.json 索引的独立资料为准，已核验姓名、来源状态及同族关系。",
+  "originalScholarPatents": [
+    {
+      "id": "QIy6O2EAAAAJ:roLk4NBRz8UC",
+      "title": "Method and system for generating accelerator program",
+      "authors": "T Wang, F Song, J Yao",
+      "venue": "US Patent 10,372,429, 2018",
+      "year": "2018",
+      "citations": "13",
+      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QIy6O2EAAAAJ&pagesize=100&citation_for_view=QIy6O2EAAAAJ:roLk4NBRz8UC",
+      "details": {
+        "发明者": "Tao Wang, Fenglong Song, Jun Yao",
+        "发表日期": "2018/5/24",
+        "专利局": "US",
+        "专利号": "10372429",
+        "专利申请号": "15/988,225",
+        "简介": "(57) ABSTRACT A method for generating an accelerator program is disclosed, to help increase utilization of an accelerator and increase program development efficiency. In some feasible imple mentations of the present invention, the method includes: obtaining an accelerator program description that is based on a state machine, where the accelerator program description includes multiple state machines separately configured to implement an application program, and the multiple state machines form a pipeline according to a data dependency in a directed acyclic graph DAG corresponding to the appli cation program; and performing state machine splicing on the state machines in the accelerator program description by using an accelerator compilation tool, to generate an accel erator program.",
+        "引用总数": "被引用次数：13 2020 2021 2022 2023 2024 3 4 5 1",
+        "学术搜索中的文章": "Method and system for generating accelerator program T Wang, F Song, J Yao - US Patent App. 15/988,225, 2018 被引用次数：13 相关文章 所有 2 个版本"
+      },
+      "url": "https://patents.google.com/patent/US20180267784A1/en",
+      "type": "patent",
+      "metadataTruncated": false
+    },
+    {
       "id": "QIy6O2EAAAAJ:dhFuZR0502QC",
       "title": "Image enhancement method and apparatus",
       "authors": "FS Tao Wang, Xian Wang",
@@ -545,26 +577,6 @@
         "学术搜索中的文章": "Parallel bit reversal devices and methods * S Xie, D Wang, J Hao, T Wang, L Yin - US Patent App. 14/118,452, 2014 被引用次数：4 相关文章 所有 2 个版本"
       },
       "type": "patent",
-      "metadataTruncated": false
-    },
-    {
-      "id": "QIy6O2EAAAAJ:maZDTaKrznsC",
-      "title": "P/D-Device: Disaggregated Large Language Model between Cloud and Devices",
-      "authors": "Yibo Jin, Yixu Xu, Yue Chen, Chengbin Wang, Tao Wang, Jiaqi Huang, Rongfei Zhang, Yiming Dong, Yuting Yan, Ke Cheng, Yingjie Zhu, Shulan Wang, Qianqian Tang, Shuaishuai Meng, Guanxin Cheng, Ze Wang, Shuyan Miao, Ketao Wang, Wen Liu, Yifan Yang, Tong Zhang, Anran Wang, Chengzhou Lu, Tiantian Dong, Yongsheng Zhang, Zhe Wang, Hefei Guo, Hongjie Liu, Wei Lu, Zhengyong Zhang",
-      "venue": "arXiv preprint arXiv:2508.09035, 2025",
-      "year": "2025",
-      "citations": "2",
-      "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=QIy6O2EAAAAJ&pagesize=100&citation_for_view=QIy6O2EAAAAJ:maZDTaKrznsC",
-      "details": {
-        "作者": "Yibo Jin, Yixu Xu, Yue Chen, Chengbin Wang, Tao Wang, Jiaqi Huang, Rongfei Zhang, Yiming Dong, Yuting Yan, Ke Cheng, Yingjie Zhu, Shulan Wang, Qianqian Tang, Shuaishuai Meng, Guanxin Cheng, Ze Wang, Shuyan Miao, Ketao Wang, Wen Liu, Yifan Yang, Tong Zhang, Anran Wang, Chengzhou Lu, Tiantian Dong, Yongsheng Zhang, Zhe Wang, Hefei Guo, Hongjie Liu, Wei Lu, Zhengyong Zhang",
-        "发表日期": "2025/8/12",
-        "期刊": "arXiv preprint arXiv:2508.09035",
-        "简介": "Serving disaggregated large language models has been widely adopted in industrial practice for enhanced performance. However, too many tokens generated in decoding phase, i.e., occupying the resources for a long time, essentially hamper the cloud from achieving a higher throughput. Meanwhile, due to limited on-device resources, the time to first token (TTFT), i.e., the latency of prefill phase, increases dramatically with the growth on prompt length. In order to concur with such a bottleneck on resources, i.e., long occupation in cloud and limited on-device computing capacity, we propose to separate large language model between cloud and devices. That is, the cloud helps a portion of the content for each device, only in its prefill phase. Specifically, after receiving the first token from the cloud, decoupling with its own prefill, the device responds to the user immediately for a lower TTFT. Then, the following tokens from cloud are presented via a speed controller for smoothed TPOT (the time per output token), until the device catches up with the progress. On-device prefill is then amortized using received tokens while the resource usage in cloud is controlled. Moreover, during cloud prefill, the prompt can be refined, using those intermediate data already generated, to further speed up on-device inference. We implement such a scheme P/D-Device, and confirm its superiority over other alternatives. We further propose an algorithm to decide the best settings. Real-trace experiments show that TTFT decreases at least 60%, maximum TPOT is about tens of milliseconds, and cloud throughput increases by up to 15x.",
-        "引用总数": "被引用次数：2 2026 2",
-        "学术搜索中的文章": "P/D-Device: Disaggregated Large Language Model between Cloud and Devices Y Jin, Y Xu, Y Chen, C Wang, T Wang, J Huang… - arXiv preprint arXiv:2508.09035, 2025 被引用次数：2 相关文章 所有 2 个版本"
-      },
-      "url": "https://arxiv.org/abs/2508.09035",
-      "type": "paper",
       "metadataTruncated": false
     },
     {
@@ -848,14 +860,5 @@
       "metadataTruncated": false
     }
   ],
-  "education": [],
-  "experience": [],
-  "patents": [],
-  "metrics": {
-    "citations": "1567",
-    "hIndex": "18",
-    "i10Index": "20"
-  },
-  "sourceRecordCount": 40,
-  "importNotes": "保留 Google Scholar 全部 40 条源记录；未合并可能重复的论文、专利或申请版本。年份及作者信息沿用来源，不代表对专利当前法律状态的核验。"
+  "patentIndex": "patents/index.json"
 }

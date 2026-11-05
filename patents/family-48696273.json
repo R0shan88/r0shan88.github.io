@@ -1,0 +1,87 @@
+{
+  "id": "family-48696273",
+  "type": "patent",
+  "title": "Methods and devices for multi-granularity parallel FFT butterfly computation",
+  "authors": "Donglin Wang, Tao Wang, Shaolin Xie, Jie Hao, Leizu Yin",
+  "inventors": [
+    "Donglin Wang",
+    "Tao Wang",
+    "Shaolin Xie",
+    "Jie Hao",
+    "Leizu Yin"
+  ],
+  "inventorVerified": true,
+  "inventorVerification": "已在来源发明人名单中确认汪涛 / Tao Wang / Wang Tao；姓名核对不等于独立身份鉴定。",
+  "applicants": [
+    "Shanghai Smart Logic Technology Co Ltd"
+  ],
+  "applicationDate": "2011-12-31",
+  "year": "2011",
+  "dateBasis": "同族已核验记录的最早申请日",
+  "status": "active",
+  "statusLabel": "含有效授权",
+  "publication": "US9262378B2",
+  "url": "https://patents.google.com/patent/US9262378B2/en",
+  "checkedAt": "2026-11-05",
+  "members": [
+    {
+      "publication": "WO2013097217A1",
+      "application": "PCT/CN2011/085137",
+      "inventors": [
+        "王东琳",
+        "汪涛",
+        "谢少林",
+        "蒿杰",
+        "尹磊祖"
+      ],
+      "nameMatched": true,
+      "assignees": [
+        "Institute of Automation"
+      ],
+      "status": "Ceased",
+      "filingDate": "2011-12-31",
+      "priorityDate": "2011-12-31",
+      "publicationDate": "2013-07-04",
+      "sourceUrl": "https://patents.google.com/patent/WO2013097217A1/en",
+      "sourceName": "Google Patents",
+      "checkedAt": "2026-11-05",
+      "statusLabel": "国际申请程序已终止（Ceased）",
+      "superseded": false
+    },
+    {
+      "publication": "US9262378B2",
+      "application": "US14/117,192",
+      "inventors": [
+        "Donglin Wang",
+        "Tao Wang",
+        "Shaolin Xie",
+        "Jie Hao",
+        "Leizu Yin"
+      ],
+      "nameMatched": true,
+      "assignees": [
+        "Shanghai Smart Logic Technology Co Ltd"
+      ],
+      "status": "Active",
+      "filingDate": "2011-12-31",
+      "priorityDate": "2011-12-31",
+      "publicationDate": "2016-02-16",
+      "sourceUrl": "https://patents.google.com/patent/US9262378B2/en",
+      "sourceName": "Google Patents",
+      "checkedAt": "2026-11-05",
+      "statusLabel": "授权有效（来源 Active）",
+      "superseded": false
+    }
+  ],
+  "familyIds": [
+    "48696273"
+  ],
+  "groups": [
+    "CASIA",
+    "Scholar"
+  ],
+  "deduplicationNote": "同申请的公开/授权版本及有同族或分案证据的记录合并展示；独立地区的状态分别保留。",
+  "venue": "US9262378B2",
+  "citations": "",
+  "editUrl": "https://github.com/frank2wang87/frank2wang87.github.io/edit/main/patents/family-48696273.json"
+}
